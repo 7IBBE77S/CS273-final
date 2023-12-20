@@ -1,32 +1,5384 @@
 
 Day 0 Summary:
 Hour, District ID, Ignorant, Alarmed, Zombie
-         0,            0,     5000,       0,      0
-         0,            1,     4999,       0,      1
-         0,            2,     4999,       1,      0
-         0,            3,     5000,       0,      0
+         0,            0,      500,       0,      0
+         0,            1,      499,       0,      1
+         0,            2,      499,       1,      0
+         0,            3,      500,       0,      0
 
 
 Day 1 Summary:
 Hour, District ID, Ignorant, Alarmed, Zombie
-         1,            0,     5000,       0,      0
-         1,            1,     4999,       0,      1
-         1,            2,     4999,       1,      0
-         1,            3,     5000,       0,      0
+         1,            0,      543,       0,      0
+         1,            1,      481,       0,      1
+         1,            2,      469,       1,      0
+         1,            3,      505,       0,      0
 
 
 Day 1 Summary:
 Hour, District ID, Ignorant, Alarmed, Zombie
-         2,            0,     5000,       0,      0
-         2,            1,     4999,       0,      1
-         2,            2,     4999,       1,      0
-         2,            3,     5000,       0,      0
+         2,            0,      584,       1,      0
+         2,            1,      451,       0,      0
+         2,            2,      448,       0,      0
+         2,            3,      515,       0,      1
 
 
 Day 1 Summary:
 Hour, District ID, Ignorant, Alarmed, Zombie
-         3,            0,     5000,       0,      0
-         3,            1,     4999,       0,      1
-         3,            2,     4999,       1,      0
-         3,            3,     5000,       0,      0
+         3,            0,      553,       2,      0
+         3,            1,      509,       0,      0
+         3,            2,      449,       0,      0
+         3,            3,      486,       0,      1
+
+
+Day 1 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,      533,       1,      0
+         4,            1,      572,       0,      0
+         4,            2,      446,       0,      0
+         4,            3,      446,       1,      1
+
+
+Day 1 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,      500,       1,      0
+         5,            1,      612,       0,      0
+         5,            2,      457,       0,      0
+         5,            3,      428,       1,      1
+
+
+Day 1 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,      481,       1,      0
+         6,            1,      637,       0,      0
+         6,            2,      472,       0,      1
+         6,            3,      407,       1,      0
+
+
+Day 1 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,      496,       1,      0
+         7,            1,      661,       0,      0
+         7,            2,      451,       0,      1
+         7,            3,      389,       1,      0
+
+
+Day 1 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,      491,       1,      0
+         8,            1,      701,       0,      0
+         8,            2,      431,       0,      1
+         8,            3,      374,       1,      0
+
+
+Day 1 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,      495,       1,      0
+         9,            1,      729,       0,      0
+         9,            2,      416,       0,      1
+         9,            3,      357,       1,      0
+
+
+Day 1 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,      519,       1,      0
+        10,            1,      748,       0,      0
+        10,            2,      400,       0,      1
+        10,            3,      330,       1,      0
+
+
+Day 1 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,      516,       1,      0
+        11,            1,      790,       0,      0
+        11,            2,      378,       0,      1
+        11,            3,      313,       1,      0
+
+
+Day 1 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,      528,       1,      0
+        12,            1,      808,       0,      0
+        12,            2,      366,       0,      1
+        12,            3,      295,       1,      0
+
+
+Day 1 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,      497,       2,      0
+        13,            1,      840,       1,      0
+        13,            2,      377,       0,      1
+        13,            3,      281,       1,      0
+
+
+Day 1 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,      471,       2,      0
+        14,            1,      853,       1,      0
+        14,            2,      403,       0,      1
+        14,            3,      268,       1,      0
+
+
+Day 1 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,      450,       2,      0
+        15,            1,      871,       1,      0
+        15,            2,      422,       0,      1
+        15,            3,      252,       1,      0
+
+
+Day 1 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,      426,       3,      0
+        16,            1,      893,       1,      0
+        16,            2,      438,       0,      1
+        16,            3,      238,       0,      0
+
+
+Day 1 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,      406,       2,      0
+        17,            1,      862,       2,      0
+        17,            2,      414,       0,      1
+        17,            3,      313,       0,      0
+
+
+Day 1 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,      388,       2,      0
+        18,            1,      819,       2,      0
+        18,            2,      408,       0,      1
+        18,            3,      379,       1,      0
+
+
+Day 1 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,      372,       2,      0
+        19,            1,      776,       2,      0
+        19,            2,      459,       1,      1
+        19,            3,      386,       1,      0
+
+
+Day 1 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,      381,       1,      0
+        20,            1,      735,       3,      0
+        20,            2,      436,       1,      1
+        20,            3,      441,       1,      0
+
+
+Day 1 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,      442,       1,      0
+        21,            1,      697,       3,      0
+        21,            2,      416,       1,      1
+        21,            3,      438,       1,      0
+
+
+Day 1 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,      445,       2,      0
+        22,            1,      661,       3,      0
+        22,            2,      392,       2,      1
+        22,            3,      493,       1,      0
+
+
+Day 1 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,      448,       2,      0
+        23,            1,      620,       3,      0
+        23,            2,      378,       2,      1
+        23,            3,      545,       1,      0
+
+
+Day 1 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,      467,       3,      0
+        24,            1,      590,       2,      0
+        24,            2,      360,       2,      1
+        24,            3,      574,       1,      0
+
+
+Day 2 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,      441,       4,      0
+         1,            1,      586,       3,      0
+         1,            2,      348,       2,      1
+         1,            3,      614,       1,      0
+
+
+Day 2 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,      424,       4,      0
+         2,            1,      580,       3,      0
+         2,            2,      325,       2,      1
+         2,            3,      660,       1,      0
+
+
+Day 2 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,      405,       4,      0
+         3,            1,      587,       3,      0
+         3,            2,      311,       2,      1
+         3,            3,      686,       1,      0
+
+
+Day 2 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,      376,       3,      0
+         4,            1,      558,       5,      0
+         4,            2,      340,       2,      1
+         4,            3,      714,       1,      0
+
+
+Day 2 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,      384,       2,      0
+         5,            1,      533,       4,      0
+         5,            2,      317,       3,      1
+         5,            3,      754,       2,      0
+
+
+Day 2 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,      451,       3,      0
+         6,            1,      498,       4,      0
+         6,            2,      304,       2,      1
+         6,            3,      735,       2,      0
+
+
+Day 2 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,      465,       4,      0
+         7,            1,      472,       3,      0
+         7,            2,      289,       2,      1
+         7,            3,      762,       2,      0
+
+
+Day 2 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,      437,       4,      0
+         8,            1,      476,       3,      0
+         8,            2,      272,       2,      1
+         8,            3,      803,       2,      0
+
+
+Day 2 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,      413,       5,      1
+         9,            1,      492,       3,      0
+         9,            2,      260,       1,      0
+         9,            3,      823,       2,      0
+
+
+Day 2 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,      398,       5,      1
+        10,            1,      475,       2,      0
+        10,            2,      322,       2,      0
+        10,            3,      792,       3,      0
+
+
+Day 2 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,      372,       5,      0
+        11,            1,      532,       2,      0
+        11,            2,      332,       2,      1
+        11,            3,      751,       3,      0
+
+
+Day 2 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,      360,       5,      0
+        12,            1,      577,       2,      0
+        12,            2,      302,       3,      1
+        12,            3,      747,       3,      0
+
+
+Day 2 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,      341,       5,      0
+        13,            1,      626,       1,      0
+        13,            2,      282,       3,      1
+        13,            3,      737,       4,      0
+
+
+Day 2 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,      326,       5,      0
+        14,            1,      654,       4,      0
+        14,            2,      303,       3,      2
+        14,            3,      699,       4,      0
+
+
+Day 2 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,      305,       5,      0
+        15,            1,      686,       4,      0
+        15,            2,      285,       3,      2
+        15,            3,      706,       4,      0
+
+
+Day 2 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,      329,       5,      0
+        16,            1,      652,       5,      0
+        16,            2,      272,       3,      1
+        16,            3,      728,       4,      1
+
+
+Day 2 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,      388,       4,      0
+        17,            1,      650,       5,      0
+        17,            2,      253,       4,      1
+        17,            3,      689,       5,      1
+
+
+Day 2 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,      451,       5,      0
+        18,            1,      633,       4,      0
+        18,            2,      241,       5,      1
+        18,            3,      655,       4,      1
+
+
+Day 2 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,      467,       5,      0
+        19,            1,      669,       5,      0
+        19,            2,      224,       6,      1
+        19,            3,      617,       3,      3
+
+
+Day 2 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,      488,       9,      0
+        20,            1,      686,       4,      0
+        20,            2,      209,       5,      1
+        20,            3,      593,       2,      3
+
+
+Day 2 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,      464,      12,      1
+        21,            1,      712,       2,      0
+        21,            2,      202,       6,      1
+        21,            3,      596,       2,      2
+
+
+Day 2 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,      439,       9,      1
+        22,            1,      730,       5,      0
+        22,            2,      193,       6,      1
+        22,            3,      612,       2,      2
+
+
+Day 2 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,      425,       8,      2
+        23,            1,      724,       5,      0
+        23,            2,      187,       7,      1
+        23,            3,      637,       3,      1
+
+
+Day 2 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,      400,       6,      1
+        24,            1,      722,       7,      0
+        24,            2,      178,       8,      1
+        24,            3,      671,       3,      3
+
+
+Day 3 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,      387,      10,      1
+         1,            1,      748,       6,      1
+         1,            2,      207,       8,      0
+         1,            3,      623,       6,      3
+
+
+Day 3 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,      373,      12,      1
+         2,            1,      709,       8,      1
+         2,            2,      280,       8,      0
+         2,            3,      599,       6,      3
+
+
+Day 3 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,      355,      11,      1
+         3,            1,      678,       8,      2
+         3,            2,      352,       9,      0
+         3,            3,      575,       7,      2
+
+
+Day 3 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,      331,      12,      1
+         4,            1,      645,      15,      2
+         4,            2,      419,       5,      0
+         4,            3,      560,       8,      2
+
+
+Day 3 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,      317,      11,      1
+         5,            1,      611,      14,      1
+         5,            2,      454,       7,      1
+         5,            3,      570,      11,      2
+
+
+Day 3 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,      322,      11,      3
+         6,            1,      588,      13,      1
+         6,            2,      495,       9,      0
+         6,            3,      546,      11,      1
+
+
+Day 3 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,      304,       8,      2
+         7,            1,      551,      16,      1
+         7,            2,      551,      13,      2
+         7,            3,      542,      10,      0
+
+
+Day 3 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,      381,       8,      3
+         8,            1,      523,      17,      1
+         8,            2,      525,      13,      1
+         8,            3,      516,      12,      0
+
+
+Day 3 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,      434,       8,      3
+         9,            1,      489,      18,      0
+         9,            2,      501,      12,      2
+         9,            3,      518,      13,      2
+
+
+Day 3 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,      494,      10,      1
+        10,            1,      462,      21,      1
+        10,            2,      496,      12,      3
+        10,            3,      484,      14,      2
+
+
+Day 3 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,      540,       9,      1
+        11,            1,      435,      24,      1
+        11,            2,      499,      11,      3
+        11,            3,      458,      17,      2
+
+
+Day 3 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,      573,      11,      1
+        12,            1,      413,      23,      1
+        12,            2,      504,      16,      3
+        12,            3,      438,      15,      2
+
+
+Day 3 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,      594,      13,      4
+        13,            1,      393,      27,      1
+        13,            2,      480,      17,      3
+        13,            3,      453,      14,      1
+
+
+Day 3 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,      585,      13,      4
+        14,            1,      363,      27,      1
+        14,            2,      458,      19,      3
+        14,            3,      511,      15,      1
+
+
+Day 3 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,      611,      11,      1
+        15,            1,      345,      27,      1
+        15,            2,      437,      21,      5
+        15,            3,      523,      16,      2
+
+
+Day 3 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,      644,      16,      2
+        16,            1,      324,      31,      1
+        16,            2,      405,      19,      4
+        16,            3,      534,      18,      2
+
+
+Day 3 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,      655,      16,      3
+        17,            1,      309,      34,      0
+        17,            2,      391,      21,      3
+        17,            3,      548,      17,      3
+
+
+Day 3 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,      650,      25,      3
+        18,            1,      286,      34,      0
+        18,            2,      378,      21,      1
+        18,            3,      580,      16,      6
+
+
+Day 3 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,      617,      31,      5
+        19,            1,      271,      32,      0
+        19,            2,      394,      21,      2
+        19,            3,      605,      17,      5
+
+
+Day 3 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,      589,      38,      4
+        20,            1,      259,      31,      2
+        20,            2,      409,      28,      3
+        20,            3,      622,      11,      4
+
+
+Day 3 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,      551,      41,      2
+        21,            1,      251,      33,      2
+        21,            2,      414,      30,      4
+        21,            3,      656,      11,      5
+
+
+Day 3 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,      517,      40,      2
+        22,            1,      272,      33,      2
+        22,            2,      391,      35,      4
+        22,            3,      685,      13,      6
+
+
+Day 3 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,      491,      40,      3
+        23,            1,      307,      35,      3
+        23,            2,      371,      40,      3
+        23,            3,      688,      14,      5
+
+
+Day 3 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,      454,      45,      5
+        24,            1,      325,      37,      2
+        24,            2,      353,      45,      3
+        24,            3,      713,      14,      4
+
+
+Day 4 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,      428,      46,      6
+         1,            1,      342,      41,      2
+         1,            2,      334,      47,      4
+         1,            3,      728,      19,      3
+
+
+Day 4 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,      414,      43,      8
+         2,            1,      364,      43,      3
+         2,            2,      316,      52,      2
+         2,            3,      728,      25,      2
+
+
+Day 4 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,      394,      50,      7
+         3,            1,      371,      43,      3
+         3,            2,      302,      48,      2
+         3,            3,      744,      32,      4
+
+
+Day 4 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,      367,      52,      6
+         4,            1,      354,      50,      3
+         4,            2,      330,      50,      3
+         4,            3,      749,      32,      4
+
+
+Day 4 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,      345,      57,      5
+         5,            1,      340,      55,      3
+         5,            2,      349,      58,      3
+         5,            3,      745,      35,      5
+
+
+Day 4 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,      316,      60,      7
+         6,            1,      349,      57,      3
+         6,            2,      330,      57,      2
+         6,            3,      777,      38,      4
+
+
+Day 4 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,      293,      61,      7
+         7,            1,      325,      61,      6
+         7,            2,      359,      62,      0
+         7,            3,      774,      48,      4
+
+
+Day 4 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,      275,      72,      4
+         8,            1,      310,      60,      7
+         8,            2,      378,      66,      3
+         8,            3,      769,      53,      3
+
+
+Day 4 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,      257,      79,      5
+         9,            1,      322,      63,      8
+         9,            2,      352,      71,      2
+         9,            3,      775,      62,      4
+
+
+Day 4 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,      241,      82,      5
+        10,            1,      363,      64,      4
+        10,            2,      333,      78,      3
+        10,            3,      750,      70,      7
+
+
+Day 4 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,      220,      91,      6
+        11,            1,      417,      64,      2
+        11,            2,      308,      91,      4
+        11,            3,      722,      68,      7
+
+
+Day 4 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,      206,      96,      4
+        12,            1,      454,      76,      5
+        12,            2,      292,      98,      3
+        12,            3,      693,      66,      7
+
+
+Day 4 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,      190,      97,      1
+        13,            1,      461,      85,      5
+        13,            2,      276,      99,      4
+        13,            3,      700,      71,     11
+
+
+Day 4 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,      175,     111,      3
+        14,            1,      466,      93,      6
+        14,            2,      260,      97,      4
+        14,            3,      699,      77,      9
+
+
+Day 4 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,      167,     115,      3
+        15,            1,      431,     107,      8
+        15,            2,      279,      99,      4
+        15,            3,      696,      83,      8
+
+
+Day 4 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,      156,     122,      4
+        16,            1,      403,     112,      6
+        16,            2,      309,     106,      6
+        16,            3,      683,      85,      8
+
+
+Day 4 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,      146,     128,      4
+        17,            1,      374,     121,      8
+        17,            2,      316,     112,      5
+        17,            3,      688,      90,      8
+
+
+Day 4 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,      142,     128,      3
+        18,            1,      346,     127,     11
+        18,            2,      348,     115,      6
+        18,            3,      665,     103,      6
+
+
+Day 4 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,      131,     129,      3
+        19,            1,      321,     141,      9
+        19,            2,      362,     121,      7
+        19,            3,      656,     113,      7
+
+
+Day 4 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,      137,     133,      3
+        20,            1,      301,     138,     10
+        20,            2,      394,     131,      9
+        20,            3,      607,     129,      8
+
+
+Day 4 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,      192,     148,      4
+        21,            1,      280,     137,     11
+        21,            2,      376,     137,      7
+        21,            3,      561,     137,     10
+
+
+Day 4 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,      170,     155,      4
+        22,            1,      250,     136,     11
+        22,            2,      424,     154,      9
+        22,            3,      532,     147,      8
+
+
+Day 4 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,      179,     155,      4
+        23,            1,      286,     147,      8
+        23,            2,      390,     160,     12
+        23,            3,      491,     156,     12
+
+
+Day 4 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,      228,     157,      5
+        24,            1,      279,     160,      9
+        24,            2,      351,     172,      6
+        24,            3,      448,     168,     17
+
+
+Day 5 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,      266,     166,      7
+         1,            1,      268,     177,     12
+         1,            2,      320,     178,      7
+         1,            3,      411,     175,     13
+
+
+Day 5 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,      295,     183,      7
+         2,            1,      251,     194,     11
+         2,            2,      287,     182,      7
+         2,            3,      398,     171,     14
+
+
+Day 5 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,      290,     207,      4
+         3,            1,      228,     209,     12
+         3,            2,      257,     187,     10
+         3,            3,      419,     163,     14
+
+
+Day 5 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,      264,     228,      6
+         4,            1,      210,     207,     16
+         4,            2,      262,     195,      9
+         4,            3,      422,     168,     13
+
+
+Day 5 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,      241,     253,      9
+         5,            1,      196,     209,     11
+         5,            2,      258,     210,     10
+         5,            3,      419,     169,     15
+
+
+Day 5 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,      206,     283,     11
+         6,            1,      189,     226,     14
+         6,            2,      227,     221,     10
+         6,            3,      447,     153,     13
+
+
+Day 5 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,      192,     290,     11
+         7,            1,      171,     245,     14
+         7,            2,      234,     235,     13
+         7,            3,      436,     147,     12
+
+
+Day 5 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,      173,     279,     14
+         8,            1,      150,     259,     15
+         8,            2,      240,     252,     12
+         8,            3,      447,     146,     13
+
+
+Day 5 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,      157,     286,     12
+         9,            1,      136,     257,     15
+         9,            2,      242,     272,     11
+         9,            3,      440,     156,     16
+
+
+Day 5 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,      143,     286,     13
+        10,            1,      135,     272,     15
+        10,            2,      221,     287,     10
+        10,            3,      441,     159,     18
+
+
+Day 5 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,      132,     292,     15
+        11,            1,      146,     269,     15
+        11,            2,      204,     306,     11
+        11,            3,      427,     165,     18
+
+
+Day 5 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,      115,     303,     17
+        12,            1,      156,     282,     18
+        12,            2,      177,     308,     11
+        12,            3,      422,     178,     13
+
+
+Day 5 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,      100,     315,     18
+        13,            1,      172,     271,     16
+        13,            2,      164,     311,     11
+        13,            3,      412,     196,     14
+
+
+Day 5 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,       89,     311,     17
+        14,            1,      175,     267,     17
+        14,            2,      155,     319,     15
+        14,            3,      398,     224,     13
+
+
+Day 5 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,       77,     314,     18
+        15,            1,      188,     285,     12
+        15,            2,      138,     307,     21
+        15,            3,      373,     254,     13
+
+
+Day 5 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,       69,     316,     14
+        16,            1,      185,     300,     16
+        16,            2,      125,     313,     21
+        16,            3,      362,     264,     15
+
+
+Day 5 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,       60,     341,     13
+        17,            1,      188,     310,     16
+        17,            2,      113,     316,     17
+        17,            3,      339,     267,     20
+
+
+Day 5 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,       56,     363,     12
+        18,            1,      195,     310,     19
+        18,            2,      108,     312,     12
+        18,            3,      317,     273,     23
+
+
+Day 5 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,       51,     367,     11
+        19,            1,      170,     325,     23
+        19,            2,      111,     336,     14
+        19,            3,      306,     267,     19
+
+
+Day 5 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,       45,     379,     13
+        20,            1,      152,     336,     23
+        20,            2,      119,     340,     15
+        20,            3,      297,     264,     17
+
+
+Day 5 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,       40,     387,     10
+        21,            1,      135,     356,     22
+        21,            2,      128,     333,     17
+        21,            3,      284,     268,     20
+
+
+Day 5 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,       33,     401,     15
+        22,            1,      119,     371,     23
+        22,            2,      129,     339,     16
+        22,            3,      271,     265,     18
+
+
+Day 5 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,       28,     407,     19
+        23,            1,      104,     381,     27
+        23,            2,      131,     339,     14
+        23,            3,      260,     277,     13
+
+
+Day 5 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,       24,     398,     20
+        24,            1,       93,     388,     27
+        24,            2,      126,     362,     17
+        24,            3,      253,     283,      9
+
+
+Day 6 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,       23,     405,     23
+         1,            1,       83,     400,     29
+         1,            2,      124,     347,     13
+         1,            3,      242,     303,      8
+
+
+Day 6 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,       19,     407,     23
+         2,            1,       75,     414,     22
+         2,            2,      122,     351,     12
+         2,            3,      232,     307,     16
+
+
+Day 6 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,       16,     401,     26
+         3,            1,       67,     416,     20
+         3,            2,      122,     366,      9
+         3,            3,      217,     320,     20
+
+
+Day 6 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,       14,     409,     27
+         4,            1,       61,     426,     21
+         4,            2,      121,     380,     13
+         4,            3,      200,     312,     16
+
+
+Day 6 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,       13,     394,     23
+         5,            1,       51,     450,     20
+         5,            2,      118,     392,     19
+         5,            3,      190,     313,     17
+
+
+Day 6 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,       21,     392,     21
+         6,            1,       46,     446,     26
+         6,            2,      105,     395,     18
+         6,            3,      178,     336,     16
+
+
+Day 6 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,       31,     388,     20
+         7,            1,       42,     449,     23
+         7,            2,       91,     405,     19
+         7,            3,      163,     350,     19
+
+
+Day 6 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,       32,     401,     20
+         8,            1,       38,     436,     22
+         8,            2,       83,     423,     20
+         8,            3,      151,     353,     21
+
+
+Day 6 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,       39,     406,     22
+         9,            1,       36,     440,     21
+         9,            2,       78,     434,     19
+         9,            3,      136,     346,     23
+
+
+Day 6 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,       40,     409,     18
+        10,            1,       31,     451,     20
+        10,            2,       69,     442,     25
+        10,            3,      131,     341,     23
+
+
+Day 6 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,       36,     416,     18
+        11,            1,       31,     457,     21
+        11,            2,       58,     449,     26
+        11,            3,      127,     339,     22
+
+
+Day 6 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,       44,     448,     22
+        12,            1,       29,     441,     20
+        12,            2,       50,     454,     25
+        12,            3,      119,     327,     21
+
+
+Day 6 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,       41,     451,     24
+        13,            1,       29,     455,     19
+        13,            2,       44,     446,     27
+        13,            3,      113,     331,     20
+
+
+Day 6 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,       35,     463,     27
+        14,            1,       32,     474,     21
+        14,            2,       39,     427,     28
+        14,            3,      103,     334,     17
+
+
+Day 6 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,       27,     479,     28
+        15,            1,       25,     468,     24
+        15,            2,       39,     432,     25
+        15,            3,      101,     334,     18
+
+
+Day 6 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,       25,     490,     38
+        16,            1,       20,     460,     21
+        16,            2,       41,     422,     20
+        16,            3,       97,     350,     16
+
+
+Day 6 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,       19,     488,     34
+        17,            1,       19,     465,     23
+        17,            2,       34,     420,     21
+        17,            3,       93,     367,     17
+
+
+Day 6 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,       17,     492,     31
+        18,            1,       18,     467,     27
+        18,            2,       32,     423,     19
+        18,            3,       87,     368,     19
+
+
+Day 6 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,       15,     482,     31
+        19,            1,       17,     461,     26
+        19,            2,       29,     444,     23
+        19,            3,       77,     379,     16
+
+
+Day 6 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,       14,     470,     33
+        20,            1,       17,     464,     25
+        20,            2,       33,     431,     26
+        20,            3,       67,     406,     14
+
+
+Day 6 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,       13,     481,     33
+        21,            1,       15,     468,     24
+        21,            2,       34,     428,     25
+        21,            3,       62,     401,     16
+
+
+Day 6 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,       10,     487,     31
+        22,            1,       13,     470,     23
+        22,            2,       36,     439,     27
+        22,            3,       52,     394,     18
+
+
+Day 6 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,        8,     503,     37
+        23,            1,       12,     477,     23
+        23,            2,       35,     430,     30
+        23,            3,       50,     380,     15
+
+
+Day 6 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,        6,     493,     40
+        24,            1,       12,     482,     27
+        24,            2,       35,     435,     27
+        24,            3,       49,     380,     14
+
+
+Day 7 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,        5,     466,     38
+         1,            1,       10,     493,     31
+         1,            2,       32,     444,     28
+         1,            3,       44,     396,     13
+
+
+Day 7 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,        5,     466,     37
+         2,            1,       10,     488,     35
+         2,            2,       32,     449,     24
+         2,            3,       36,     404,     14
+
+
+Day 7 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,        4,     479,     38
+         3,            1,        9,     505,     34
+         3,            2,       29,     434,     23
+         3,            3,       34,     396,     15
+
+
+Day 7 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,        3,     471,     38
+         4,            1,        6,     490,     33
+         4,            2,       29,     445,     24
+         4,            3,       33,     411,     17
+
+
+Day 7 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,        3,     471,     38
+         5,            1,        5,     477,     34
+         5,            2,       28,     448,     24
+         5,            3,       33,     422,     17
+
+
+Day 7 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,        3,     480,     35
+         6,            1,        4,     479,     36
+         6,            2,       26,     449,     24
+         6,            3,       32,     411,     21
+
+
+Day 7 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,        2,     474,     32
+         7,            1,        4,     473,     32
+         7,            2,       27,     462,     28
+         7,            3,       30,     412,     24
+
+
+Day 7 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,        2,     468,     32
+         8,            1,        2,     485,     25
+         8,            2,       24,     475,     36
+         8,            3,       28,     398,     25
+
+
+Day 7 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,        4,     461,     36
+         9,            1,        1,     502,     29
+         9,            2,       19,     456,     34
+         9,            3,       27,     407,     24
+
+
+Day 7 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,        4,     467,     39
+        10,            1,        1,     495,     35
+        10,            2,       17,     451,     31
+        10,            3,       26,     413,     21
+
+
+Day 7 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,        2,     474,     34
+        11,            1,        1,     488,     45
+        11,            2,       15,     457,     28
+        11,            3,       26,     409,     21
+
+
+Day 7 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,        2,     480,     39
+        12,            1,        1,     479,     43
+        12,            2,       14,     458,     30
+        12,            3,       26,     411,     17
+
+
+Day 7 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,        2,     458,     45
+        13,            1,        1,     480,     42
+        13,            2,       16,     461,     27
+        13,            3,       23,     424,     21
+
+
+Day 7 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,        2,     477,     49
+        14,            1,        1,     477,     38
+        14,            2,       13,     460,     31
+        14,            3,       21,     411,     20
+
+
+Day 7 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,        1,     481,     57
+        15,            1,        1,     464,     33
+        15,            2,       15,     459,     29
+        15,            3,       19,     422,     19
+
+
+Day 7 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,        1,     474,     52
+        16,            1,        1,     478,     29
+        16,            2,       13,     462,     43
+        16,            3,       18,     410,     19
+
+
+Day 7 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,        1,     486,     46
+        17,            1,        1,     486,     39
+        17,            2,       13,     458,     40
+        17,            3,       17,     395,     18
+
+
+Day 7 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,        1,     485,     53
+        18,            1,        1,     482,     47
+        18,            2,       13,     459,     33
+        18,            3,       15,     398,     13
+
+
+Day 7 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,        1,     463,     56
+        19,            1,        1,     487,     48
+        19,            2,       10,     470,     33
+        19,            3,       17,     402,     12
+
+
+Day 7 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,        1,     454,     59
+        20,            1,        1,     485,     44
+        20,            2,       10,     478,     32
+        20,            3,       15,     406,     15
+
+
+Day 7 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,        1,     459,     57
+        21,            1,        1,     472,     51
+        21,            2,        9,     483,     27
+        21,            3,       14,     410,     16
+
+
+Day 7 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,        1,     461,     52
+        22,            1,        1,     471,     46
+        22,            2,        8,     480,     35
+        22,            3,       13,     414,     18
+
+
+Day 7 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,        1,     474,     50
+        23,            1,        1,     474,     44
+        23,            2,        7,     466,     35
+        23,            3,       13,     412,     23
+
+
+Day 7 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,        1,     476,     55
+        24,            1,        1,     482,     44
+        24,            2,        7,     457,     33
+        24,            3,       10,     414,     20
+
+
+Day 8 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,        1,     481,     48
+         1,            1,        1,     478,     50
+         1,            2,        6,     458,     33
+         1,            3,       11,     409,     24
+
+
+Day 8 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,        1,     478,     54
+         2,            1,        1,     481,     53
+         2,            2,        5,     464,     32
+         2,            3,       11,     404,     16
+
+
+Day 8 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,        1,     483,     48
+         3,            1,        1,     466,     58
+         3,            2,        5,     453,     33
+         3,            3,        9,     425,     18
+
+
+Day 8 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,        1,     473,     51
+         4,            1,        1,     478,     60
+         4,            2,        5,     457,     35
+         4,            3,        7,     419,     13
+
+
+Day 8 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,        1,     490,     51
+         5,            1,        1,     469,     56
+         5,            2,        3,     460,     32
+         5,            3,        7,     409,     21
+
+
+Day 8 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,        1,     506,     53
+         6,            1,        1,     457,     55
+         6,            2,        3,     450,     33
+         6,            3,        7,     412,     22
+
+
+Day 8 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,        1,     506,     56
+         7,            1,        1,     463,     57
+         7,            2,        3,     438,     37
+         7,            3,        7,     416,     15
+
+
+Day 8 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,        1,     504,     57
+         8,            1,        1,     452,     57
+         8,            2,        3,     431,     38
+         8,            3,        7,     433,     16
+
+
+Day 8 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,        1,     507,     59
+         9,            1,        0,     460,     56
+         9,            2,        3,     438,     37
+         9,            3,        8,     414,     17
+
+
+Day 8 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,        0,     510,     58
+        10,            1,        0,     461,     56
+        10,            2,        3,     429,     36
+        10,            3,        7,     418,     22
+
+
+Day 8 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,        0,     485,     53
+        11,            1,        0,     455,     63
+        11,            2,        3,     453,     34
+        11,            3,        5,     425,     24
+
+
+Day 8 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,        0,     491,     59
+        12,            1,        0,     451,     56
+        12,            2,        4,     452,     35
+        12,            3,        3,     424,     25
+
+
+Day 8 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,        0,     476,     60
+        13,            1,        0,     445,     60
+        13,            2,        4,     458,     35
+        13,            3,        3,     436,     23
+
+
+Day 8 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,        0,     474,     61
+        14,            1,        0,     451,     57
+        14,            2,        4,     453,     38
+        14,            3,        3,     435,     24
+
+
+Day 8 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,        0,     469,     60
+        15,            1,        0,     460,     54
+        15,            2,        4,     445,     37
+        15,            3,        3,     435,     33
+
+
+Day 8 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,        0,     487,     58
+        16,            1,        0,     463,     60
+        16,            2,        5,     445,     34
+        16,            3,        2,     412,     34
+
+
+Day 8 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,        0,     496,     64
+        17,            1,        0,     450,     55
+        17,            2,        4,     451,     36
+        17,            3,        2,     409,     33
+
+
+Day 8 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,        0,     475,     69
+        18,            1,        0,     467,     55
+        18,            2,        4,     450,     39
+        18,            3,        1,     410,     30
+
+
+Day 8 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,        0,     468,     69
+        19,            1,        0,     452,     54
+        19,            2,        4,     458,     47
+        19,            3,        1,     419,     28
+
+
+Day 8 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,        0,     460,     66
+        20,            1,        0,     454,     57
+        20,            2,        4,     471,     54
+        20,            3,        1,     410,     23
+
+
+Day 8 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,        0,     459,     63
+        21,            1,        0,     440,     54
+        21,            2,        4,     472,     70
+        21,            3,        1,     420,     17
+
+
+Day 8 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,        0,     462,     68
+        22,            1,        0,     446,     52
+        22,            2,        3,     469,     66
+        22,            3,        2,     413,     19
+
+
+Day 8 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,        0,     461,     69
+        23,            1,        0,     455,     48
+        23,            2,        2,     473,     69
+        23,            3,        1,     401,     21
+
+
+Day 8 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,        0,     472,     71
+        24,            1,        0,     450,     50
+        24,            2,        2,     470,     62
+        24,            3,        1,     397,     25
+
+
+Day 9 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,        0,     478,     69
+         1,            1,        0,     449,     52
+         1,            2,        2,     466,     64
+         1,            3,        1,     393,     26
+
+
+Day 9 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,        0,     467,     73
+         2,            1,        0,     467,     53
+         2,            2,        2,     454,     63
+         2,            3,        1,     395,     25
+
+
+Day 9 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,        0,     457,     66
+         3,            1,        0,     472,     60
+         3,            2,        0,     453,     65
+         3,            3,        3,     396,     28
+
+
+Day 9 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,        0,     451,     66
+         4,            1,        0,     484,     64
+         4,            2,        0,     451,     58
+         4,            3,        2,     391,     33
+
+
+Day 9 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,        0,     455,     72
+         5,            1,        0,     480,     68
+         5,            2,        0,     459,     55
+         5,            3,        2,     381,     28
+
+
+Day 9 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,        0,     458,     66
+         6,            1,        0,     488,     78
+         6,            2,        0,     457,     49
+         6,            3,        1,     368,     35
+
+
+Day 9 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,        0,     453,     66
+         7,            1,        0,     485,     78
+         7,            2,        0,     467,     55
+         7,            3,        1,     365,     30
+
+
+Day 9 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,        1,     473,     62
+         8,            1,        0,     476,     78
+         8,            2,        0,     449,     67
+         8,            3,        0,     366,     28
+
+
+Day 9 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,        1,     469,     67
+         9,            1,        0,     494,     81
+         9,            2,        0,     438,     61
+         9,            3,        0,     361,     28
+
+
+Day 9 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,        1,     472,     69
+        10,            1,        0,     503,     76
+        10,            2,        0,     426,     62
+        10,            3,        0,     361,     30
+
+
+Day 9 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,        1,     480,     64
+        11,            1,        0,     492,     78
+        11,            2,        0,     430,     68
+        11,            3,        0,     359,     28
+
+
+Day 9 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,        1,     483,     67
+        12,            1,        0,     496,     73
+        12,            2,        0,     422,     70
+        12,            3,        0,     356,     32
+
+
+Day 9 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,        1,     480,     79
+        13,            1,        0,     497,     64
+        13,            2,        0,     422,     65
+        13,            3,        0,     354,     38
+
+
+Day 9 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,        1,     460,     64
+        14,            1,        0,     495,     78
+        14,            2,        0,     437,     70
+        14,            3,        0,     360,     35
+
+
+Day 9 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,        1,     465,     67
+        15,            1,        0,     505,     89
+        15,            2,        0,     424,     66
+        15,            3,        0,     357,     26
+
+
+Day 9 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,        1,     453,     61
+        16,            1,        0,     486,     88
+        16,            2,        0,     434,     72
+        16,            3,        0,     374,     31
+
+
+Day 9 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,        0,     455,     66
+        17,            1,        0,     497,     88
+        17,            2,        0,     423,     66
+        17,            3,        0,     369,     36
+
+
+Day 9 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,        0,     454,     70
+        18,            1,        0,     489,     88
+        18,            2,        0,     432,     66
+        18,            3,        0,     363,     38
+
+
+Day 9 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,        0,     458,     65
+        19,            1,        0,     482,     94
+        19,            2,        0,     433,     67
+        19,            3,        0,     364,     37
+
+
+Day 9 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,        0,     456,     68
+        20,            1,        0,     487,     94
+        20,            2,        0,     421,     61
+        20,            3,        0,     372,     41
+
+
+Day 9 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,        0,     455,     79
+        21,            1,        0,     472,     87
+        21,            2,        0,     424,     60
+        21,            3,        0,     382,     41
+
+
+Day 9 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,        0,     441,     75
+        22,            1,        0,     471,     98
+        22,            2,        0,     425,     60
+        22,            3,        0,     391,     39
+
+
+Day 9 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,        0,     436,     75
+        23,            1,        0,     478,    105
+        23,            2,        0,     419,     58
+        23,            3,        0,     390,     39
+
+
+Day 9 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,        0,     431,     82
+        24,            1,        0,     474,    100
+        24,            2,        0,     424,     54
+        24,            3,        0,     391,     44
+
+
+Day 10 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,        0,     419,     84
+         1,            1,        0,     489,     97
+         1,            2,        0,     418,     48
+         1,            3,        0,     393,     52
+
+
+Day 10 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,        0,     427,     83
+         2,            1,        0,     475,     92
+         2,            2,        0,     429,     54
+         2,            3,        0,     384,     56
+
+
+Day 10 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,        0,     434,     86
+         3,            1,        0,     474,    100
+         3,            2,        0,     437,     52
+         3,            3,        0,     367,     50
+
+
+Day 10 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,        0,     439,     82
+         4,            1,        0,     472,    104
+         4,            2,        0,     434,     53
+         4,            3,        0,     364,     52
+
+
+Day 10 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,        0,     430,     88
+         5,            1,        0,     476,    102
+         5,            2,        0,     435,     58
+         5,            3,        0,     363,     48
+
+
+Day 10 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,        0,     447,     88
+         6,            1,        0,     478,    104
+         6,            2,        0,     418,     64
+         6,            3,        0,     354,     47
+
+
+Day 10 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,        0,     445,     93
+         7,            1,        0,     473,     96
+         7,            2,        0,     423,     68
+         7,            3,        0,     353,     49
+
+
+Day 10 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,        0,     423,     95
+         8,            1,        0,     459,     99
+         8,            2,        0,     441,     69
+         8,            3,        0,     367,     47
+
+
+Day 10 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,        0,     436,     97
+         9,            1,        0,     447,    105
+         9,            2,        0,     439,     63
+         9,            3,        0,     365,     48
+
+
+Day 10 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,        0,     443,     88
+        10,            1,        0,     438,    119
+        10,            2,        0,     434,     68
+        10,            3,        0,     370,     40
+
+
+Day 10 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,        0,     461,     91
+        11,            1,        0,     420,    114
+        11,            2,        0,     425,     67
+        11,            3,        0,     376,     46
+
+
+Day 10 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,        0,     460,    111
+        12,            1,        0,     419,    109
+        12,            2,        0,     416,     65
+        12,            3,        0,     381,     39
+
+
+Day 10 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,        0,     459,    115
+        13,            1,        0,     418,    104
+        13,            2,        0,     411,     73
+        13,            3,        0,     383,     37
+
+
+Day 10 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,        0,     465,    116
+        14,            1,        0,     402,    101
+        14,            2,        0,     425,     74
+        14,            3,        0,     374,     43
+
+
+Day 10 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,        0,     464,    127
+        15,            1,        0,     409,     94
+        15,            2,        0,     424,     70
+        15,            3,        0,     367,     45
+
+
+Day 10 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,        0,     460,    127
+        16,            1,        0,     414,     94
+        16,            2,        0,     421,     65
+        16,            3,        0,     367,     52
+
+
+Day 10 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,        0,     455,    119
+        17,            1,        0,     414,     97
+        17,            2,        0,     415,     65
+        17,            3,        0,     377,     58
+
+
+Day 10 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,        0,     452,    128
+        18,            1,        0,     412,     92
+        18,            2,        0,     424,     65
+        18,            3,        0,     373,     54
+
+
+Day 10 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,        0,     449,    135
+        19,            1,        0,     416,     85
+        19,            2,        0,     419,     69
+        19,            3,        0,     372,     55
+
+
+Day 10 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,        0,     442,    140
+        20,            1,        0,     415,     85
+        20,            2,        0,     428,     74
+        20,            3,        0,     370,     46
+
+
+Day 10 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,        0,     431,    132
+        21,            1,        0,     404,     79
+        21,            2,        0,     428,     89
+        21,            3,        0,     388,     49
+
+
+Day 10 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,        0,     443,    132
+        22,            1,        0,     398,     75
+        22,            2,        0,     425,    103
+        22,            3,        0,     380,     44
+
+
+Day 10 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,        0,     452,    131
+        23,            1,        0,     400,     96
+        23,            2,        0,     418,     98
+        23,            3,        0,     367,     38
+
+
+Day 10 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,        0,     465,    134
+        24,            1,        0,     393,     96
+        24,            2,        0,     417,    101
+        24,            3,        0,     357,     37
+
+
+Day 11 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,        0,     459,    129
+         1,            1,        0,     416,    102
+         1,            2,        0,     400,    102
+         1,            3,        0,     354,     38
+
+
+Day 11 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,        0,     455,    124
+         2,            1,        0,     414,     97
+         2,            2,        0,     401,    109
+         2,            3,        0,     356,     44
+
+
+Day 11 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,        0,     464,    147
+         3,            1,        0,     417,     99
+         3,            2,        0,     375,     93
+         3,            3,        0,     363,     42
+
+
+Day 11 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,        0,     456,    136
+         4,            1,        0,     424,    103
+         4,            2,        0,     382,     97
+         4,            3,        0,     353,     49
+
+
+Day 11 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,        0,     457,    151
+         5,            1,        0,     411,    105
+         5,            2,        0,     389,     89
+         5,            3,        0,     352,     46
+
+
+Day 11 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,        0,     463,    151
+         6,            1,        0,     410,    110
+         6,            2,        0,     392,     94
+         6,            3,        0,     338,     42
+
+
+Day 11 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,        0,     439,    153
+         7,            1,        0,     399,    104
+         7,            2,        0,     420,    102
+         7,            3,        0,     343,     40
+
+
+Day 11 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,        0,     438,    152
+         8,            1,        0,     396,    107
+         8,            2,        0,     414,    101
+         8,            3,        0,     353,     39
+
+
+Day 11 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,        0,     429,    151
+         9,            1,        0,     386,    103
+         9,            2,        0,     421,    107
+         9,            3,        0,     362,     41
+
+
+Day 11 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,        0,     433,    140
+        10,            1,        0,     386,    105
+        10,            2,        0,     413,    112
+        10,            3,        0,     365,     46
+
+
+Day 11 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,        0,     425,    140
+        11,            1,        0,     399,    100
+        11,            2,        0,     404,    115
+        11,            3,        0,     367,     50
+
+
+Day 11 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,        0,     411,    132
+        12,            1,        0,     413,    107
+        12,            2,        0,     396,    114
+        12,            3,        0,     371,     56
+
+
+Day 11 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,        0,     408,    134
+        13,            1,        0,     411,    112
+        13,            2,        0,     393,    105
+        13,            3,        0,     376,     61
+
+
+Day 11 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,        0,     407,    135
+        14,            1,        0,     410,    123
+        14,            2,        0,     389,    101
+        14,            3,        0,     378,     57
+
+
+Day 11 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,        0,     423,    136
+        15,            1,        0,     417,    138
+        15,            2,        0,     369,     86
+        15,            3,        0,     371,     60
+
+
+Day 11 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,        0,     426,    137
+        16,            1,        0,     420,    134
+        16,            2,        0,     370,     93
+        16,            3,        0,     362,     58
+
+
+Day 11 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,        0,     425,    137
+        17,            1,        0,     405,    133
+        17,            2,        0,     373,    100
+        17,            3,        0,     367,     60
+
+
+Day 11 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,        0,     417,    131
+        18,            1,        0,     415,    138
+        18,            2,        0,     389,    101
+        18,            3,        0,     346,     63
+
+
+Day 11 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,        0,     423,    128
+        19,            1,        0,     412,    139
+        19,            2,        0,     382,    100
+        19,            3,        0,     343,     73
+
+
+Day 11 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,        0,     421,    133
+        20,            1,        0,     404,    145
+        20,            2,        0,     387,     91
+        20,            3,        0,     343,     76
+
+
+Day 11 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,        0,     402,    146
+        21,            1,        0,     424,    129
+        21,            2,        0,     391,    101
+        21,            3,        0,     334,     73
+
+
+Day 11 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,        0,     404,    147
+        22,            1,        0,     414,    128
+        22,            2,        0,     390,    117
+        22,            3,        0,     330,     70
+
+
+Day 11 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,        0,     415,    145
+        23,            1,        0,     398,    139
+        23,            2,        0,     397,    112
+        23,            3,        0,     324,     70
+
+
+Day 11 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,        0,     418,    169
+        24,            1,        0,     381,    131
+        24,            2,        0,     394,    101
+        24,            3,        0,     334,     72
+
+
+Day 12 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,        0,     417,    185
+         1,            1,        0,     375,    121
+         1,            2,        0,     401,    103
+         1,            3,        0,     332,     66
+
+
+Day 12 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,        0,     413,    180
+         2,            1,        0,     392,    121
+         2,            2,        0,     397,    117
+         2,            3,        0,     317,     63
+
+
+Day 12 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,        0,     415,    182
+         3,            1,        0,     394,    123
+         3,            2,        0,     393,    118
+         3,            3,        0,     313,     62
+
+
+Day 12 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,        0,     425,    177
+         4,            1,        0,     397,    135
+         4,            2,        0,     380,    115
+         4,            3,        0,     308,     63
+
+
+Day 12 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,        0,     426,    174
+         5,            1,        0,     400,    150
+         5,            2,        0,     382,    106
+         5,            3,        0,     296,     66
+
+
+Day 12 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,        0,     423,    172
+         6,            1,        0,     407,    149
+         6,            2,        0,     382,    114
+         6,            3,        0,     290,     63
+
+
+Day 12 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,        0,     413,    174
+         7,            1,        0,     403,    143
+         7,            2,        0,     377,    122
+         7,            3,        0,     305,     63
+
+
+Day 12 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,        0,     410,    173
+         8,            1,        0,     411,    145
+         8,            2,        0,     381,    123
+         8,            3,        0,     293,     64
+
+
+Day 12 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,        0,     401,    173
+         9,            1,        0,     414,    153
+         9,            2,        0,     383,    135
+         9,            3,        0,     285,     56
+
+
+Day 12 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,        0,     405,    165
+        10,            1,        0,     396,    161
+        10,            2,        0,     380,    135
+        10,            3,        0,     298,     60
+
+
+Day 12 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,        0,     399,    187
+        11,            1,        0,     393,    151
+        11,            2,        0,     374,    119
+        11,            3,        0,     311,     66
+
+
+Day 12 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,        0,     391,    193
+        12,            1,        0,     391,    157
+        12,            2,        0,     365,    119
+        12,            3,        0,     321,     63
+
+
+Day 12 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,        0,     385,    185
+        13,            1,        0,     393,    163
+        13,            2,        0,     358,    126
+        13,            3,        0,     325,     65
+
+
+Day 12 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,        0,     380,    188
+        14,            1,        0,     402,    160
+        14,            2,        0,     357,    132
+        14,            3,        0,     315,     66
+
+
+Day 12 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,        0,     381,    188
+        15,            1,        0,     400,    170
+        15,            2,        0,     351,    123
+        15,            3,        0,     318,     69
+
+
+Day 12 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,        0,     390,    184
+        16,            1,        0,     396,    178
+        16,            2,        0,     345,    130
+        16,            3,        0,     310,     67
+
+
+Day 12 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,        0,     389,    189
+        17,            1,        0,     402,    179
+        17,            2,        0,     347,    130
+        17,            3,        0,     298,     66
+
+
+Day 12 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,        0,     382,    182
+        18,            1,        0,     399,    175
+        18,            2,        0,     352,    137
+        18,            3,        0,     299,     74
+
+
+Day 12 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,        0,     386,    179
+        19,            1,        0,     385,    180
+        19,            2,        0,     356,    136
+        19,            3,        0,     302,     76
+
+
+Day 12 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,        0,     370,    180
+        20,            1,        0,     388,    182
+        20,            2,        0,     358,    138
+        20,            3,        0,     309,     75
+
+
+Day 12 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,        0,     369,    183
+        21,            1,        0,     378,    189
+        21,            2,        0,     361,    125
+        21,            3,        0,     313,     82
+
+
+Day 12 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,        0,     374,    187
+        22,            1,        0,     372,    198
+        22,            2,        0,     357,    118
+        22,            3,        0,     310,     84
+
+
+Day 12 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,        0,     378,    175
+        23,            1,        0,     355,    205
+        23,            2,        0,     360,    133
+        23,            3,        0,     313,     81
+
+
+Day 12 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,        0,     376,    179
+        24,            1,        0,     350,    208
+        24,            2,        0,     363,    131
+        24,            3,        0,     311,     82
+
+
+Day 13 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,        0,     376,    172
+         1,            1,        0,     347,    213
+         1,            2,        0,     354,    143
+         1,            3,        0,     318,     77
+
+
+Day 13 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,        0,     387,    184
+         2,            1,        0,     338,    210
+         2,            2,        0,     352,    138
+         2,            3,        0,     315,     76
+
+
+Day 13 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,        0,     369,    182
+         3,            1,        0,     351,    206
+         3,            2,        0,     363,    136
+         3,            3,        0,     302,     91
+
+
+Day 13 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,        0,     370,    193
+         4,            1,        0,     360,    213
+         4,            2,        0,     352,    129
+         4,            3,        0,     297,     86
+
+
+Day 13 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,        0,     356,    204
+         5,            1,        0,     355,    208
+         5,            2,        0,     347,    142
+         5,            3,        0,     309,     79
+
+
+Day 13 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,        0,     351,    204
+         6,            1,        0,     357,    199
+         6,            2,        0,     345,    151
+         6,            3,        0,     310,     83
+
+
+Day 13 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,        0,     363,    192
+         7,            1,        0,     344,    229
+         7,            2,        0,     337,    151
+         7,            3,        0,     313,     71
+
+
+Day 13 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,        0,     361,    207
+         8,            1,        0,     347,    225
+         8,            2,        0,     325,    153
+         8,            3,        0,     310,     72
+
+
+Day 13 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,        0,     353,    206
+         9,            1,        0,     344,    225
+         9,            2,        0,     327,    156
+         9,            3,        0,     311,     78
+
+
+Day 13 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,        0,     366,    212
+        10,            1,        0,     328,    222
+        10,            2,        0,     316,    150
+        10,            3,        0,     321,     85
+
+
+Day 13 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,        0,     356,    234
+        11,            1,        0,     337,    209
+        11,            2,        0,     307,    139
+        11,            3,        0,     325,     93
+
+
+Day 13 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,        0,     353,    247
+        12,            1,        0,     326,    198
+        12,            2,        0,     310,    142
+        12,            3,        0,     328,     96
+
+
+Day 13 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,        0,     345,    250
+        13,            1,        0,     330,    207
+        13,            2,        0,     304,    141
+        13,            3,        0,     330,     93
+
+
+Day 13 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,        0,     343,    248
+        14,            1,        0,     335,    210
+        14,            2,        0,     308,    139
+        14,            3,        0,     318,     99
+
+
+Day 13 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,        0,     339,    242
+        15,            1,        0,     325,    212
+        15,            2,        0,     326,    150
+        15,            3,        0,     307,     99
+
+
+Day 13 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,        0,     331,    253
+        16,            1,        0,     318,    214
+        16,            2,        0,     340,    142
+        16,            3,        0,     304,     98
+
+
+Day 13 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,        0,     337,    242
+        17,            1,        0,     320,    209
+        17,            2,        0,     330,    158
+        17,            3,        0,     298,    106
+
+
+Day 13 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,        0,     327,    257
+        18,            1,        0,     316,    213
+        18,            2,        0,     342,    152
+        18,            3,        0,     296,     97
+
+
+Day 13 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,        0,     328,    258
+        19,            1,        0,     315,    212
+        19,            2,        0,     324,    154
+        19,            3,        0,     307,    102
+
+
+Day 13 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,        0,     334,    258
+        20,            1,        0,     315,    213
+        20,            2,        0,     321,    153
+        20,            3,        0,     295,    111
+
+
+Day 13 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,        0,     330,    251
+        21,            1,        0,     318,    221
+        21,            2,        0,     325,    149
+        21,            3,        0,     286,    120
+
+
+Day 13 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,        0,     324,    237
+        22,            1,        0,     323,    237
+        22,            2,        0,     318,    147
+        22,            3,        0,     289,    125
+
+
+Day 13 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,        0,     312,    242
+        23,            1,        0,     337,    236
+        23,            2,        0,     319,    151
+        23,            3,        0,     281,    122
+
+
+Day 13 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,        0,     311,    228
+        24,            1,        0,     322,    247
+        24,            2,        0,     323,    162
+        24,            3,        0,     287,    120
+
+
+Day 14 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,        0,     313,    238
+         1,            1,        0,     321,    233
+         1,            2,        0,     320,    171
+         1,            3,        0,     284,    120
+
+
+Day 14 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,        0,     324,    234
+         2,            1,        0,     331,    245
+         2,            2,        0,     314,    169
+         2,            3,        0,     264,    119
+
+
+Day 14 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,        0,     323,    251
+         3,            1,        0,     314,    263
+         3,            2,        0,     313,    146
+         3,            3,        0,     271,    119
+
+
+Day 14 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,        0,     318,    240
+         4,            1,        0,     305,    270
+         4,            2,        0,     310,    149
+         4,            3,        0,     281,    127
+
+
+Day 14 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,        0,     314,    236
+         5,            1,        0,     302,    276
+         5,            2,        0,     320,    161
+         5,            3,        0,     272,    119
+
+
+Day 14 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,        0,     303,    248
+         6,            1,        0,     298,    267
+         6,            2,        0,     328,    170
+         6,            3,        0,     272,    114
+
+
+Day 14 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,        0,     304,    243
+         7,            1,        0,     298,    281
+         7,            2,        0,     315,    162
+         7,            3,        0,     276,    121
+
+
+Day 14 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,        0,     300,    243
+         8,            1,        0,     307,    271
+         8,            2,        0,     314,    171
+         8,            3,        0,     266,    128
+
+
+Day 14 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,        0,     289,    235
+         9,            1,        0,     299,    283
+         9,            2,        0,     325,    164
+         9,            3,        0,     272,    133
+
+
+Day 14 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,        0,     299,    232
+        10,            1,        0,     290,    283
+        10,            2,        0,     321,    176
+        10,            3,        0,     266,    133
+
+
+Day 14 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,        0,     292,    230
+        11,            1,        0,     299,    294
+        11,            2,        0,     311,    177
+        11,            3,        0,     266,    131
+
+
+Day 14 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,        0,     294,    236
+        12,            1,        0,     301,    287
+        12,            2,        0,     307,    185
+        12,            3,        0,     265,    125
+
+
+Day 14 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,        0,     284,    247
+        13,            1,        0,     308,    291
+        13,            2,        0,     303,    181
+        13,            3,        0,     266,    120
+
+
+Day 14 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,        0,     284,    239
+        14,            1,        0,     306,    298
+        14,            2,        0,     304,    194
+        14,            3,        0,     262,    113
+
+
+Day 14 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,        0,     293,    251
+        15,            1,        0,     299,    292
+        15,            2,        0,     300,    200
+        15,            3,        0,     259,    106
+
+
+Day 14 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,        0,     308,    257
+        16,            1,        0,     289,    288
+        16,            2,        0,     296,    204
+        16,            3,        0,     253,    105
+
+
+Day 14 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,        0,     310,    250
+        17,            1,        0,     290,    291
+        17,            2,        0,     289,    206
+        17,            3,        0,     252,    112
+
+
+Day 14 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,        0,     306,    250
+        18,            1,        0,     289,    291
+        18,            2,        0,     279,    205
+        18,            3,        0,     257,    123
+
+
+Day 14 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,        0,     299,    252
+        19,            1,        0,     290,    273
+        19,            2,        0,     276,    229
+        19,            3,        0,     261,    120
+
+
+Day 14 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,        0,     300,    263
+        20,            1,        0,     288,    280
+        20,            2,        0,     275,    217
+        20,            3,        0,     258,    119
+
+
+Day 14 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,        0,     297,    267
+        21,            1,        0,     284,    285
+        21,            2,        0,     275,    211
+        21,            3,        0,     257,    124
+
+
+Day 14 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,        0,     300,    276
+        22,            1,        0,     296,    269
+        22,            2,        0,     269,    221
+        22,            3,        0,     239,    130
+
+
+Day 14 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,        0,     298,    267
+        23,            1,        0,     283,    298
+        23,            2,        0,     275,    202
+        23,            3,        0,     242,    135
+
+
+Day 14 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,        0,     307,    255
+        24,            1,        0,     275,    312
+        24,            2,        0,     266,    193
+        24,            3,        0,     246,    146
+
+
+Day 15 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,        0,     297,    246
+         1,            1,        0,     277,    332
+         1,            2,        0,     279,    190
+         1,            3,        0,     234,    145
+
+
+Day 15 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,        0,     285,    246
+         2,            1,        0,     283,    326
+         2,            2,        0,     282,    192
+         2,            3,        0,     233,    153
+
+
+Day 15 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,        0,     281,    256
+         3,            1,        0,     277,    329
+         3,            2,        0,     283,    182
+         3,            3,        0,     239,    153
+
+
+Day 15 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,        0,     279,    262
+         4,            1,        0,     276,    325
+         4,            2,        0,     286,    187
+         4,            3,        0,     234,    151
+
+
+Day 15 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,        0,     267,    275
+         5,            1,        0,     273,    322
+         5,            2,        0,     291,    177
+         5,            3,        0,     238,    157
+
+
+Day 15 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,        0,     268,    283
+         6,            1,        0,     265,    311
+         6,            2,        0,     295,    185
+         6,            3,        0,     240,    153
+
+
+Day 15 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,        0,     282,    288
+         7,            1,        0,     253,    319
+         7,            2,        0,     299,    184
+         7,            3,        0,     230,    145
+
+
+Day 15 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,        0,     288,    277
+         8,            1,        0,     246,    323
+         8,            2,        0,     296,    198
+         8,            3,        0,     229,    143
+
+
+Day 15 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,        0,     280,    283
+         9,            1,        0,     244,    321
+         9,            2,        0,     288,    208
+         9,            3,        0,     241,    135
+
+
+Day 15 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,        0,     288,    275
+        10,            1,        0,     239,    336
+        10,            2,        0,     280,    215
+        10,            3,        0,     235,    132
+
+
+Day 15 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,        0,     299,    276
+        11,            1,        0,     242,    334
+        11,            2,        0,     270,    215
+        11,            3,        0,     228,    136
+
+
+Day 15 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,        0,     290,    278
+        12,            1,        0,     237,    337
+        12,            2,        0,     270,    216
+        12,            3,        0,     235,    137
+
+
+Day 15 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,        0,     265,    292
+        13,            1,        0,     243,    325
+        13,            2,        0,     281,    221
+        13,            3,        0,     239,    134
+
+
+Day 15 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,        0,     266,    300
+        14,            1,        0,     236,    335
+        14,            2,        0,     286,    218
+        14,            3,        0,     232,    127
+
+
+Day 15 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,        0,     260,    303
+        15,            1,        0,     243,    331
+        15,            2,        0,     281,    225
+        15,            3,        0,     235,    122
+
+
+Day 15 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,        0,     247,    307
+        16,            1,        0,     249,    321
+        16,            2,        0,     286,    234
+        16,            3,        0,     233,    123
+
+
+Day 15 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,        0,     263,    295
+        17,            1,        0,     237,    342
+        17,            2,        0,     279,    233
+        17,            3,        0,     228,    123
+
+
+Day 15 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,        0,     270,    299
+        18,            1,        0,     236,    348
+        18,            2,        0,     261,    226
+        18,            3,        0,     235,    125
+
+
+Day 15 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,        0,     273,    302
+        19,            1,        0,     225,    350
+        19,            2,        0,     264,    225
+        19,            3,        0,     234,    127
+
+
+Day 15 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,        0,     277,    331
+        20,            1,        0,     233,    345
+        20,            2,        0,     261,    208
+        20,            3,        0,     218,    127
+
+
+Day 15 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,        0,     289,    341
+        21,            1,        0,     226,    340
+        21,            2,        0,     261,    211
+        21,            3,        0,     211,    121
+
+
+Day 15 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,        0,     277,    335
+        22,            1,        0,     238,    333
+        22,            2,        0,     252,    219
+        22,            3,        0,     217,    129
+
+
+Day 15 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,        0,     281,    332
+        23,            1,        0,     238,    336
+        23,            2,        0,     244,    226
+        23,            3,        0,     217,    126
+
+
+Day 15 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,        0,     267,    327
+        24,            1,        0,     228,    327
+        24,            2,        0,     243,    238
+        24,            3,        0,     235,    135
+
+
+Day 16 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,        0,     265,    346
+         1,            1,        0,     242,    318
+         1,            2,        0,     244,    231
+         1,            3,        0,     214,    140
+
+
+Day 16 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,        0,     262,    352
+         2,            1,        0,     238,    316
+         2,            2,        0,     238,    237
+         2,            3,        0,     223,    134
+
+
+Day 16 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,        0,     250,    343
+         3,            1,        0,     231,    325
+         3,            2,        0,     248,    242
+         3,            3,        0,     224,    137
+
+
+Day 16 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,        0,     241,    369
+         4,            1,        0,     230,    311
+         4,            2,        0,     258,    240
+         4,            3,        0,     217,    134
+
+
+Day 16 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,        0,     236,    396
+         5,            1,        0,     234,    312
+         5,            2,        0,     253,    224
+         5,            3,        0,     214,    131
+
+
+Day 16 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,        0,     234,    392
+         6,            1,        0,     226,    319
+         6,            2,        0,     248,    223
+         6,            3,        0,     221,    137
+
+
+Day 16 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,        0,     230,    390
+         7,            1,        0,     231,    330
+         7,            2,        0,     248,    230
+         7,            3,        0,     213,    128
+
+
+Day 16 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,        0,     227,    387
+         8,            1,        0,     235,    336
+         8,            2,        0,     241,    224
+         8,            3,        0,     209,    141
+
+
+Day 16 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,        0,     225,    389
+         9,            1,        0,     234,    342
+         9,            2,        0,     241,    218
+         9,            3,        0,     205,    146
+
+
+Day 16 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,        0,     220,    380
+        10,            1,        0,     235,    350
+        10,            2,        0,     239,    219
+        10,            3,        0,     203,    154
+
+
+Day 16 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,        0,     189,    381
+        11,            1,        0,     242,    352
+        11,            2,        0,     248,    231
+        11,            3,        0,     208,    149
+
+
+Day 16 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,        0,     204,    365
+        12,            1,        0,     236,    357
+        12,            2,        0,     245,    250
+        12,            3,        0,     197,    146
+
+
+Day 16 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,        0,     211,    360
+        13,            1,        0,     231,    370
+        13,            2,        0,     247,    255
+        13,            3,        0,     189,    137
+
+
+Day 16 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,        0,     219,    344
+        14,            1,        0,     220,    400
+        14,            2,        0,     234,    250
+        14,            3,        0,     196,    137
+
+
+Day 16 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,        0,     210,    327
+        15,            1,        0,     220,    412
+        15,            2,        0,     234,    243
+        15,            3,        0,     201,    153
+
+
+Day 16 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,        0,     216,    347
+        16,            1,        0,     221,    404
+        16,            2,        0,     223,    247
+        16,            3,        0,     198,    144
+
+
+Day 16 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,        0,     221,    333
+        17,            1,        0,     210,    398
+        17,            2,        0,     215,    257
+        17,            3,        0,     208,    158
+
+
+Day 16 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,        0,     225,    309
+        18,            1,        0,     205,    419
+        18,            2,        0,     207,    258
+        18,            3,        0,     213,    164
+
+
+Day 16 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,        0,     228,    322
+        19,            1,        0,     202,    421
+        19,            2,        0,     204,    247
+        19,            3,        0,     213,    163
+
+
+Day 16 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,        0,     227,    328
+        20,            1,        0,     207,    411
+        20,            2,        0,     204,    249
+        20,            3,        0,     201,    173
+
+
+Day 16 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,        0,     229,    345
+        21,            1,        0,     210,    420
+        21,            2,        0,     197,    242
+        21,            3,        0,     193,    164
+
+
+Day 16 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,        0,     218,    344
+        22,            1,        0,     221,    406
+        22,            2,        0,     196,    256
+        22,            3,        0,     185,    174
+
+
+Day 16 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,        0,     213,    348
+        23,            1,        0,     219,    411
+        23,            2,        0,     198,    258
+        23,            3,        0,     186,    167
+
+
+Day 16 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,        0,     214,    346
+        24,            1,        0,     215,    412
+        24,            2,        0,     200,    271
+        24,            3,        0,     181,    161
+
+
+Day 17 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,        0,     222,    341
+         1,            1,        0,     216,    415
+         1,            2,        0,     192,    267
+         1,            3,        0,     177,    170
+
+
+Day 17 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,        0,     218,    359
+         2,            1,        0,     217,    407
+         2,            2,        0,     201,    252
+         2,            3,        0,     167,    179
+
+
+Day 17 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,        0,     219,    359
+         3,            1,        0,     212,    405
+         3,            2,        0,     194,    262
+         3,            3,        0,     168,    181
+
+
+Day 17 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,        0,     220,    358
+         4,            1,        0,     224,    420
+         4,            2,        0,     180,    256
+         4,            3,        0,     164,    178
+
+
+Day 17 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,        0,     215,    358
+         5,            1,        0,     216,    423
+         5,            2,        0,     189,    254
+         5,            3,        0,     161,    184
+
+
+Day 17 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,        0,     208,    366
+         6,            1,        0,     209,    429
+         6,            2,        0,     198,    255
+         6,            3,        0,     159,    176
+
+
+Day 17 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,        0,     213,    351
+         7,            1,        0,     205,    447
+         7,            2,        0,     193,    266
+         7,            3,        0,     160,    165
+
+
+Day 17 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,        0,     207,    366
+         8,            1,        0,     209,    438
+         8,            2,        0,     193,    267
+         8,            3,        0,     158,    162
+
+
+Day 17 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,        0,     209,    357
+         9,            1,        0,     203,    445
+         9,            2,        0,     200,    262
+         9,            3,        0,     148,    176
+
+
+Day 17 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,        0,     198,    358
+        10,            1,        0,     200,    431
+        10,            2,        0,     207,    281
+        10,            3,        0,     147,    178
+
+
+Day 17 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,        0,     190,    342
+        11,            1,        0,     207,    450
+        11,            2,        0,     205,    288
+        11,            3,        0,     143,    175
+
+
+Day 17 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,        0,     187,    363
+        12,            1,        0,     215,    451
+        12,            2,        0,     205,    276
+        12,            3,        0,     135,    168
+
+
+Day 17 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,        0,     183,    352
+        13,            1,        0,     212,    445
+        13,            2,        0,     203,    301
+        13,            3,        0,     137,    167
+
+
+Day 17 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,        0,     188,    364
+        14,            1,        0,     200,    420
+        14,            2,        0,     199,    309
+        14,            3,        0,     140,    180
+
+
+Day 17 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,        0,     186,    369
+        15,            1,        0,     200,    435
+        15,            2,        0,     189,    291
+        15,            3,        0,     149,    181
+
+
+Day 17 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,        0,     190,    359
+        16,            1,        0,     195,    446
+        16,            2,        0,     195,    292
+        16,            3,        0,     139,    184
+
+
+Day 17 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,        0,     185,    359
+        17,            1,        0,     185,    455
+        17,            2,        0,     201,    289
+        17,            3,        0,     144,    182
+
+
+Day 17 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,        0,     192,    362
+        18,            1,        0,     190,    444
+        18,            2,        0,     189,    300
+        18,            3,        0,     135,    188
+
+
+Day 17 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,        0,     200,    379
+        19,            1,        0,     178,    433
+        19,            2,        0,     182,    303
+        19,            3,        0,     140,    185
+
+
+Day 17 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,        0,     186,    387
+        20,            1,        0,     183,    436
+        20,            2,        0,     186,    298
+        20,            3,        0,     141,    183
+
+
+Day 17 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,        0,     179,    408
+        21,            1,        0,     186,    400
+        21,            2,        0,     182,    306
+        21,            3,        0,     144,    195
+
+
+Day 17 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,        0,     178,    423
+        22,            1,        0,     186,    397
+        22,            2,        0,     176,    295
+        22,            3,        0,     148,    197
+
+
+Day 17 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,        0,     177,    453
+        23,            1,        0,     186,    387
+        23,            2,        0,     172,    292
+        23,            3,        0,     145,    188
+
+
+Day 17 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,        0,     181,    457
+        24,            1,        0,     190,    385
+        24,            2,        0,     162,    297
+        24,            3,        0,     142,    186
+
+
+Day 18 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,        0,     172,    452
+         1,            1,        0,     186,    371
+         1,            2,        0,     162,    322
+         1,            3,        0,     147,    188
+
+
+Day 18 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,        0,     175,    460
+         2,            1,        0,     188,    356
+         2,            2,        0,     159,    326
+         2,            3,        0,     143,    193
+
+
+Day 18 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,        0,     181,    481
+         3,            1,        0,     186,    371
+         3,            2,        0,     152,    305
+         3,            3,        0,     142,    182
+
+
+Day 18 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,        0,     170,    464
+         4,            1,        0,     182,    393
+         4,            2,        0,     157,    313
+         4,            3,        0,     148,    173
+
+
+Day 18 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,        0,     170,    459
+         5,            1,        0,     190,    417
+         5,            2,        0,     150,    307
+         5,            3,        0,     143,    164
+
+
+Day 18 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,        0,     169,    442
+         6,            1,        0,     188,    423
+         6,            2,        0,     154,    312
+         6,            3,        0,     134,    178
+
+
+Day 18 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,        0,     178,    425
+         7,            1,        0,     181,    437
+         7,            2,        0,     145,    316
+         7,            3,        0,     138,    180
+
+
+Day 18 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,        0,     177,    420
+         8,            1,        0,     183,    444
+         8,            2,        0,     141,    321
+         8,            3,        0,     139,    175
+
+
+Day 18 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,        0,     168,    420
+         9,            1,        0,     170,    436
+         9,            2,        0,     150,    331
+         9,            3,        0,     144,    181
+
+
+Day 18 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,        0,     169,    409
+        10,            1,        0,     165,    459
+        10,            2,        0,     151,    323
+        10,            3,        0,     139,    185
+
+
+Day 18 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,        0,     165,    403
+        11,            1,        0,     160,    492
+        11,            2,        0,     153,    311
+        11,            3,        0,     140,    176
+
+
+Day 18 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,        0,     155,    408
+        12,            1,        0,     166,    494
+        12,            2,        0,     155,    311
+        12,            3,        0,     133,    178
+
+
+Day 18 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,        0,     154,    426
+        13,            1,        0,     162,    482
+        13,            2,        0,     156,    315
+        13,            3,        0,     131,    174
+
+
+Day 18 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,        0,     165,    420
+        14,            1,        0,     159,    493
+        14,            2,        0,     140,    317
+        14,            3,        0,     134,    172
+
+
+Day 18 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,        0,     166,    423
+        15,            1,        0,     159,    485
+        15,            2,        0,     141,    312
+        15,            3,        0,     127,    187
+
+
+Day 18 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,        0,     154,    408
+        16,            1,        0,     157,    498
+        16,            2,        0,     148,    314
+        16,            3,        0,     130,    191
+
+
+Day 18 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,        0,     156,    420
+        17,            1,        0,     157,    471
+        17,            2,        0,     145,    325
+        17,            3,        0,     123,    203
+
+
+Day 18 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,        0,     155,    417
+        18,            1,        0,     153,    481
+        18,            2,        0,     141,    322
+        18,            3,        0,     123,    208
+
+
+Day 18 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,        0,     146,    383
+        19,            1,        0,     161,    497
+        19,            2,        0,     133,    323
+        19,            3,        0,     125,    232
+
+
+Day 18 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,        0,     149,    429
+        20,            1,        0,     155,    500
+        20,            2,        0,     132,    296
+        20,            3,        0,     126,    213
+
+
+Day 18 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,        0,     156,    437
+        21,            1,        0,     148,    506
+        21,            2,        0,     135,    297
+        21,            3,        0,     117,    204
+
+
+Day 18 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,        0,     158,    446
+        22,            1,        0,     147,    490
+        22,            2,        0,     135,    312
+        22,            3,        0,     113,    199
+
+
+Day 18 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,        0,     151,    444
+        23,            1,        0,     146,    505
+        23,            2,        0,     136,    319
+        23,            3,        0,     114,    185
+
+
+Day 18 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,        0,     144,    424
+        24,            1,        0,     144,    509
+        24,            2,        0,     139,    320
+        24,            3,        0,     117,    203
+
+
+Day 19 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,        0,     144,    422
+         1,            1,        0,     154,    490
+         1,            2,        0,     129,    338
+         1,            3,        0,     113,    210
+
+
+Day 19 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,        0,     148,    423
+         2,            1,        0,     152,    501
+         2,            2,        0,     127,    319
+         2,            3,        0,     105,    225
+
+
+Day 19 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,        0,     140,    440
+         3,            1,        0,     149,    508
+         3,            2,        0,     133,    312
+         3,            3,        0,     105,    213
+
+
+Day 19 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,        0,     142,    419
+         4,            1,        0,     154,    517
+         4,            2,        0,     125,    320
+         4,            3,        0,     102,    221
+
+
+Day 19 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,        0,     133,    437
+         5,            1,        0,     146,    515
+         5,            2,        0,     133,    316
+         5,            3,        0,     101,    219
+
+
+Day 19 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,        0,     127,    424
+         6,            1,        0,     151,    528
+         6,            2,        0,     132,    325
+         6,            3,        0,     100,    213
+
+
+Day 19 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,        0,     129,    430
+         7,            1,        0,     150,    532
+         7,            2,        0,     126,    320
+         7,            3,        0,      99,    214
+
+
+Day 19 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,        0,     120,    438
+         8,            1,        0,     159,    534
+         8,            2,        0,     126,    329
+         8,            3,        0,      92,    202
+
+
+Day 19 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,        0,     118,    444
+         9,            1,        0,     158,    517
+         9,            2,        0,     122,    337
+         9,            3,        0,      95,    209
+
+
+Day 19 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,        0,     116,    448
+        10,            1,        0,     149,    513
+        10,            2,        0,     122,    347
+        10,            3,        0,     103,    202
+
+
+Day 19 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,        0,     113,    469
+        11,            1,        0,     153,    506
+        11,            2,        0,     120,    334
+        11,            3,        0,     102,    203
+
+
+Day 19 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,        0,     101,    445
+        12,            1,        0,     143,    536
+        12,            2,        0,     130,    349
+        12,            3,        0,     107,    189
+
+
+Day 19 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,        0,     106,    429
+        13,            1,        0,     140,    535
+        13,            2,        0,     126,    375
+        13,            3,        0,     102,    187
+
+
+Day 19 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,        0,     109,    438
+        14,            1,        0,     136,    527
+        14,            2,        0,     128,    384
+        14,            3,        0,      98,    180
+
+
+Day 19 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,        0,     110,    447
+        15,            1,        0,     128,    524
+        15,            2,        0,     129,    382
+        15,            3,        0,     100,    180
+
+
+Day 19 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,        0,     115,    439
+        16,            1,        0,     128,    539
+        16,            2,        0,     123,    362
+        16,            3,        0,     101,    193
+
+
+Day 19 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,        0,     102,    417
+        17,            1,        0,     128,    543
+        17,            2,        0,     126,    375
+        17,            3,        0,     108,    201
+
+
+Day 19 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,        0,      95,    421
+        18,            1,        0,     134,    549
+        18,            2,        0,     130,    355
+        18,            3,        0,     102,    214
+
+
+Day 19 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,        0,      97,    406
+        19,            1,        0,     140,    590
+        19,            2,        0,     123,    338
+        19,            3,        0,      98,    208
+
+
+Day 19 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,        0,      98,    420
+        20,            1,        0,     136,    579
+        20,            2,        0,     125,    340
+        20,            3,        0,      95,    207
+
+
+Day 19 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,        0,      98,    445
+        21,            1,        0,     127,    559
+        21,            2,        0,     124,    343
+        21,            3,        0,      99,    205
+
+
+Day 19 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,        0,      98,    452
+        22,            1,        0,     126,    551
+        22,            2,        0,     123,    352
+        22,            3,        0,      98,    200
+
+
+Day 19 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,        0,     102,    456
+        23,            1,        0,     127,    552
+        23,            2,        0,     109,    355
+        23,            3,        0,      99,    200
+
+
+Day 19 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,        0,     104,    451
+        24,            1,        0,     124,    558
+        24,            2,        0,     108,    359
+        24,            3,        0,      97,    199
+
+
+Day 20 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,        0,     105,    454
+         1,            1,        0,     109,    555
+         1,            2,        0,     122,    370
+         1,            3,        0,      95,    190
+
+
+Day 20 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,        0,     107,    459
+         2,            1,        0,     104,    563
+         2,            2,        0,     118,    366
+         2,            3,        0,      98,    185
+
+
+Day 20 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,        0,     101,    462
+         3,            1,        0,     112,    548
+         3,            2,        0,     115,    365
+         3,            3,        0,      96,    201
+
+
+Day 20 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,        0,     103,    473
+         4,            1,        0,     112,    552
+         4,            2,        0,     114,    360
+         4,            3,        0,      92,    194
+
+
+Day 20 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,        0,     106,    490
+         5,            1,        0,     105,    561
+         5,            2,        0,     108,    339
+         5,            3,        0,      96,    195
+
+
+Day 20 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,        0,     103,    508
+         6,            1,        0,     105,    558
+         6,            2,        0,     104,    327
+         6,            3,        0,      97,    198
+
+
+Day 20 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,        0,     102,    504
+         7,            1,        0,      99,    544
+         7,            2,        0,     101,    333
+         7,            3,        0,     102,    215
+
+
+Day 20 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,        0,      91,    484
+         8,            1,        0,     101,    565
+         8,            2,        0,     101,    337
+         8,            3,        0,     107,    214
+
+
+Day 20 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,        0,      95,    489
+         9,            1,        0,     105,    566
+         9,            2,        0,      95,    326
+         9,            3,        0,     101,    223
+
+
+Day 20 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,        0,      89,    488
+        10,            1,        0,      99,    573
+        10,            2,        0,      96,    327
+        10,            3,        0,     104,    224
+
+
+Day 20 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,        0,      91,    495
+        11,            1,        0,     102,    543
+        11,            2,        0,      95,    337
+        11,            3,        0,      97,    240
+
+
+Day 20 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,        0,      86,    489
+        12,            1,        0,      96,    554
+        12,            2,        0,      95,    346
+        12,            3,        0,     100,    234
+
+
+Day 20 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,        0,      85,    464
+        13,            1,        0,      95,    589
+        13,            2,        0,      91,    359
+        13,            3,        0,     100,    217
+
+
+Day 20 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,        0,      87,    470
+        14,            1,        0,      98,    605
+        14,            2,        0,      84,    355
+        14,            3,        0,     100,    201
+
+
+Day 20 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,        0,      89,    485
+        15,            1,        0,      94,    581
+        15,            2,        0,      83,    366
+        15,            3,        0,      99,    203
+
+
+Day 20 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,        0,      97,    471
+        16,            1,        0,      88,    592
+        16,            2,        0,      80,    375
+        16,            3,        0,      94,    203
+
+
+Day 20 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,        0,      95,    487
+        17,            1,        0,      85,    602
+        17,            2,        0,      85,    348
+        17,            3,        0,      90,    208
+
+
+Day 20 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,        0,      96,    467
+        18,            1,        0,      75,    586
+        18,            2,        0,      92,    389
+        18,            3,        0,      89,    206
+
+
+Day 20 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,        0,      83,    490
+        19,            1,        0,      82,    579
+        19,            2,        0,      94,    367
+        19,            3,        0,      90,    215
+
+
+Day 20 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,        0,      82,    489
+        20,            1,        0,      80,    584
+        20,            2,        0,      92,    356
+        20,            3,        0,      94,    223
+
+
+Day 20 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,        0,      85,    497
+        21,            1,        0,      83,    561
+        21,            2,        0,      89,    362
+        21,            3,        0,      89,    234
+
+
+Day 20 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,        0,      82,    489
+        22,            1,        0,      81,    565
+        22,            2,        0,      92,    360
+        22,            3,        0,      91,    240
+
+
+Day 20 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,        0,      82,    496
+        23,            1,        0,      83,    548
+        23,            2,        0,      92,    368
+        23,            3,        0,      86,    245
+
+
+Day 20 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,        0,      81,    509
+        24,            1,        0,      87,    554
+        24,            2,        0,      94,    357
+        24,            3,        0,      76,    242
+
+
+Day 21 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,        0,      78,    500
+         1,            1,        0,      80,    571
+         1,            2,        0,      98,    363
+         1,            3,        0,      81,    229
+
+
+Day 21 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,        0,      80,    494
+         2,            1,        0,      78,    561
+         2,            2,        0,      95,    376
+         2,            3,        0,      79,    237
+
+
+Day 21 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,        0,      78,    510
+         3,            1,        0,      82,    552
+         3,            2,        0,      94,    384
+         3,            3,        0,      75,    225
+
+
+Day 21 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,        0,      80,    513
+         4,            1,        0,      82,    559
+         4,            2,        0,      99,    385
+         4,            3,        0,      64,    218
+
+
+Day 21 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,        0,      89,    523
+         5,            1,        0,      78,    546
+         5,            2,        0,      88,    386
+         5,            3,        0,      64,    226
+
+
+Day 21 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,        0,      92,    531
+         6,            1,        0,      80,    542
+         6,            2,        0,      78,    389
+         6,            3,        0,      65,    223
+
+
+Day 21 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,        0,      88,    558
+         7,            1,        0,      76,    518
+         7,            2,        0,      80,    386
+         7,            3,        0,      65,    229
+
+
+Day 21 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,        0,      87,    581
+         8,            1,        0,      75,    494
+         8,            2,        0,      79,    383
+         8,            3,        0,      64,    237
+
+
+Day 21 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,        0,      96,    577
+         9,            1,        0,      73,    494
+         9,            2,        0,      71,    395
+         9,            3,        0,      64,    230
+
+
+Day 21 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,        0,      90,    575
+        10,            1,        0,      70,    503
+        10,            2,        0,      72,    403
+        10,            3,        0,      67,    220
+
+
+Day 21 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,        0,      84,    563
+        11,            1,        0,      67,    516
+        11,            2,        0,      73,    408
+        11,            3,        0,      69,    220
+
+
+Day 21 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,        0,      74,    571
+        12,            1,        0,      73,    512
+        12,            2,        0,      76,    400
+        12,            3,        0,      68,    226
+
+
+Day 21 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,        0,      76,    578
+        13,            1,        0,      67,    511
+        13,            2,        0,      71,    397
+        13,            3,        0,      73,    227
+
+
+Day 21 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,        0,      76,    570
+        14,            1,        0,      65,    521
+        14,            2,        0,      72,    380
+        14,            3,        0,      70,    246
+
+
+Day 21 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,        0,      75,    570
+        15,            1,        0,      70,    531
+        15,            2,        0,      73,    383
+        15,            3,        0,      64,    234
+
+
+Day 21 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,        0,      76,    587
+        16,            1,        0,      67,    553
+        16,            2,        0,      69,    357
+        16,            3,        0,      65,    226
+
+
+Day 21 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,        0,      79,    600
+        17,            1,        0,      75,    551
+        17,            2,        0,      60,    353
+        17,            3,        0,      60,    222
+
+
+Day 21 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,        0,      72,    594
+        18,            1,        0,      72,    550
+        18,            2,        0,      67,    356
+        18,            3,        0,      60,    229
+
+
+Day 21 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,        0,      70,    561
+        19,            1,        0,      70,    554
+        19,            2,        0,      68,    377
+        19,            3,        0,      58,    242
+
+
+Day 21 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,        0,      70,    568
+        20,            1,        0,      69,    543
+        20,            2,        0,      67,    393
+        20,            3,        0,      57,    233
+
+
+Day 21 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,        0,      67,    561
+        21,            1,        0,      71,    542
+        21,            2,        0,      68,    396
+        21,            3,        0,      53,    242
+
+
+Day 21 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,        0,      65,    560
+        22,            1,        0,      69,    553
+        22,            2,        0,      65,    400
+        22,            3,        0,      56,    232
+
+
+Day 21 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,        0,      64,    557
+        23,            1,        0,      76,    540
+        23,            2,        0,      61,    404
+        23,            3,        0,      54,    244
+
+
+Day 21 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,        0,      63,    572
+        24,            1,        0,      77,    527
+        24,            2,        0,      59,    407
+        24,            3,        0,      52,    243
+
+
+Day 22 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,        0,      64,    586
+         1,            1,        0,      78,    526
+         1,            2,        0,      59,    404
+         1,            3,        0,      45,    238
+
+
+Day 22 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,        0,      67,    566
+         2,            1,        0,      78,    527
+         2,            2,        0,      57,    425
+         2,            3,        0,      42,    238
+
+
+Day 22 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,        0,      67,    590
+         3,            1,        0,      76,    492
+         3,            2,        0,      52,    428
+         3,            3,        0,      46,    249
+
+
+Day 22 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,        0,      63,    560
+         4,            1,        0,      75,    516
+         4,            2,        0,      51,    416
+         4,            3,        0,      51,    268
+
+
+Day 22 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,        0,      60,    572
+         5,            1,        0,      68,    518
+         5,            2,        0,      54,    403
+         5,            3,        0,      56,    269
+
+
+Day 22 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,        0,      59,    599
+         6,            1,        0,      68,    505
+         6,            2,        0,      54,    403
+         6,            3,        0,      56,    256
+
+
+Day 22 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,        0,      61,    588
+         7,            1,        0,      66,    517
+         7,            2,        0,      50,    422
+         7,            3,        0,      56,    240
+
+
+Day 22 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,        0,      59,    584
+         8,            1,        0,      65,    522
+         8,            2,        0,      53,    431
+         8,            3,        0,      54,    232
+
+
+Day 22 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,        0,      58,    580
+         9,            1,        0,      63,    542
+         9,            2,        0,      57,    417
+         9,            3,        0,      52,    231
+
+
+Day 22 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,        0,      53,    581
+        10,            1,        0,      69,    539
+        10,            2,        0,      55,    413
+        10,            3,        0,      51,    239
+
+
+Day 22 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,        0,      55,    597
+        11,            1,        0,      63,    497
+        11,            2,        0,      53,    418
+        11,            3,        0,      54,    263
+
+
+Day 22 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,        0,      60,    567
+        12,            1,        0,      64,    527
+        12,            2,        0,      50,    415
+        12,            3,        0,      50,    267
+
+
+Day 22 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,        0,      59,    591
+        13,            1,        0,      63,    516
+        13,            2,        0,      48,    407
+        13,            3,        0,      53,    263
+
+
+Day 22 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,        0,      59,    577
+        14,            1,        0,      61,    517
+        14,            2,        0,      43,    434
+        14,            3,        0,      54,    255
+
+
+Day 22 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,        0,      60,    597
+        15,            1,        0,      58,    526
+        15,            2,        0,      40,    408
+        15,            3,        0,      55,    256
+
+
+Day 22 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,        0,      64,    607
+        16,            1,        0,      56,    532
+        16,            2,        0,      37,    406
+        16,            3,        0,      55,    243
+
+
+Day 22 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,        0,      61,    601
+        17,            1,        0,      53,    540
+        17,            2,        0,      43,    396
+        17,            3,        0,      52,    254
+
+
+Day 22 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,        0,      58,    599
+        18,            1,        0,      54,    517
+        18,            2,        0,      44,    428
+        18,            3,        0,      53,    247
+
+
+Day 22 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,        0,      57,    612
+        19,            1,        0,      56,    523
+        19,            2,        0,      40,    410
+        19,            3,        0,      54,    248
+
+
+Day 22 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,        0,      55,    624
+        20,            1,        0,      56,    535
+        20,            2,        0,      41,    401
+        20,            3,        0,      52,    236
+
+
+Day 22 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,        0,      56,    649
+        21,            1,        0,      53,    497
+        21,            2,        0,      41,    401
+        21,            3,        0,      52,    251
+
+
+Day 22 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,        0,      50,    649
+        22,            1,        0,      50,    501
+        22,            2,        0,      47,    397
+        22,            3,        0,      53,    253
+
+
+Day 22 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,        0,      50,    643
+        23,            1,        0,      50,    494
+        23,            2,        0,      46,    419
+        23,            3,        0,      52,    246
+
+
+Day 22 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,        0,      52,    618
+        24,            1,        0,      56,    525
+        24,            2,        0,      45,    392
+        24,            3,        0,      45,    267
+
+
+Day 23 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,        0,      53,    625
+         1,            1,        0,      51,    527
+         1,            2,        0,      47,    401
+         1,            3,        0,      43,    253
+
+
+Day 23 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,        0,      53,    624
+         2,            1,        0,      49,    543
+         2,            2,        0,      47,    388
+         2,            3,        0,      44,    252
+
+
+Day 23 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,        0,      55,    619
+         3,            1,        0,      45,    546
+         3,            2,        0,      46,    383
+         3,            3,        0,      46,    260
+
+
+Day 23 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,        0,      58,    624
+         4,            1,        0,      43,    535
+         4,            2,        0,      48,    388
+         4,            3,        0,      43,    261
+
+
+Day 23 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,        0,      59,    630
+         5,            1,        0,      43,    558
+         5,            2,        0,      49,    389
+         5,            3,        0,      39,    233
+
+
+Day 23 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,        0,      53,    644
+         6,            1,        0,      40,    541
+         6,            2,        0,      54,    379
+         6,            3,        0,      41,    248
+
+
+Day 23 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,        0,      52,    624
+         7,            1,        0,      43,    543
+         7,            2,        0,      54,    384
+         7,            3,        0,      37,    263
+
+
+Day 23 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,        0,      53,    615
+         8,            1,        0,      41,    562
+         8,            2,        0,      49,    377
+         8,            3,        0,      39,    264
+
+
+Day 23 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,        0,      49,    624
+         9,            1,        0,      40,    542
+         9,            2,        0,      50,    383
+         9,            3,        0,      41,    271
+
+
+Day 23 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,        0,      40,    597
+        10,            1,        0,      43,    540
+        10,            2,        0,      55,    412
+        10,            3,        0,      38,    275
+
+
+Day 23 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,        0,      35,    631
+        11,            1,        0,      40,    538
+        11,            2,        0,      57,    400
+        11,            3,        0,      44,    255
+
+
+Day 23 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,        0,      33,    649
+        12,            1,        0,      45,    528
+        12,            2,        0,      55,    408
+        12,            3,        0,      40,    242
+
+
+Day 23 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,        0,      34,    637
+        13,            1,        0,      45,    533
+        13,            2,        0,      56,    420
+        13,            3,        0,      36,    239
+
+
+Day 23 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,        0,      34,    631
+        14,            1,        0,      47,    544
+        14,            2,        0,      49,    435
+        14,            3,        0,      39,    221
+
+
+Day 23 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,        0,      33,    624
+        15,            1,        0,      47,    555
+        15,            2,        0,      51,    431
+        15,            3,        0,      37,    222
+
+
+Day 23 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,        0,      31,    649
+        16,            1,        0,      46,    537
+        16,            2,        0,      52,    417
+        16,            3,        0,      36,    232
+
+
+Day 23 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,        0,      35,    635
+        17,            1,        0,      42,    549
+        17,            2,        0,      48,    416
+        17,            3,        0,      38,    237
+
+
+Day 23 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,        0,      37,    631
+        18,            1,        0,      38,    531
+        18,            2,        0,      50,    428
+        18,            3,        0,      38,    247
+
+
+Day 23 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,        0,      37,    651
+        19,            1,        0,      38,    519
+        19,            2,        0,      51,    415
+        19,            3,        0,      36,    253
+
+
+Day 23 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,        0,      39,    627
+        20,            1,        0,      36,    557
+        20,            2,        0,      50,    414
+        20,            3,        0,      36,    241
+
+
+Day 23 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,        0,      44,    619
+        21,            1,        0,      32,    561
+        21,            2,        0,      50,    426
+        21,            3,        0,      32,    236
+
+
+Day 23 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,        0,      47,    648
+        22,            1,        0,      28,    545
+        22,            2,        0,      49,    419
+        22,            3,        0,      32,    232
+
+
+Day 23 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,        0,      48,    639
+        23,            1,        0,      28,    541
+        23,            2,        0,      44,    420
+        23,            3,        0,      34,    246
+
+
+Day 23 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,        0,      45,    636
+        24,            1,        0,      25,    548
+        24,            2,        0,      47,    421
+        24,            3,        0,      37,    241
+
+
+Day 24 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,        0,      44,    634
+         1,            1,        0,      27,    570
+         1,            2,        0,      48,    410
+         1,            3,        0,      31,    236
+
+
+Day 24 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,        0,      43,    613
+         2,            1,        0,      28,    563
+         2,            2,        0,      47,    438
+         2,            3,        0,      31,    237
+
+
+Day 24 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,        0,      41,    640
+         3,            1,        0,      33,    567
+         3,            2,        0,      44,    416
+         3,            3,        0,      29,    230
+
+
+Day 24 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,        0,      43,    629
+         4,            1,        0,      34,    559
+         4,            2,        0,      37,    438
+         4,            3,        0,      29,    231
+
+
+Day 24 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,        0,      37,    611
+         5,            1,        0,      35,    565
+         5,            2,        0,      37,    438
+         5,            3,        0,      33,    244
+
+
+Day 24 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,        0,      40,    620
+         6,            1,        0,      33,    587
+         6,            2,        0,      35,    412
+         6,            3,        0,      32,    241
+
+
+Day 24 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,        0,      36,    639
+         7,            1,        0,      33,    591
+         7,            2,        0,      37,    389
+         7,            3,        0,      32,    243
+
+
+Day 24 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,        0,      37,    641
+         8,            1,        0,      29,    585
+         8,            2,        0,      38,    380
+         8,            3,        0,      33,    257
+
+
+Day 24 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,        0,      34,    631
+         9,            1,        0,      32,    602
+         9,            2,        0,      36,    371
+         9,            3,        0,      32,    262
+
+
+Day 24 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,        0,      33,    641
+        10,            1,        0,      35,    594
+        10,            2,        0,      35,    374
+        10,            3,        0,      30,    258
+
+
+Day 24 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,        0,      35,    652
+        11,            1,        0,      30,    592
+        11,            2,        0,      33,    381
+        11,            3,        0,      30,    247
+
+
+Day 24 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,        0,      36,    648
+        12,            1,        0,      33,    589
+        12,            2,        0,      29,    404
+        12,            3,        0,      29,    232
+
+
+Day 24 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,        0,      34,    672
+        13,            1,        0,      39,    605
+        13,            2,        0,      30,    376
+        13,            3,        0,      22,    222
+
+
+Day 24 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,        0,      32,    656
+        14,            1,        0,      37,    587
+        14,            2,        0,      30,    396
+        14,            3,        0,      22,    240
+
+
+Day 24 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,        0,      35,    617
+        15,            1,        0,      35,    604
+        15,            2,        0,      27,    400
+        15,            3,        0,      22,    260
+
+
+Day 24 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,        0,      41,    626
+        16,            1,        0,      34,    596
+        16,            2,        0,      28,    403
+        16,            3,        0,      16,    256
+
+
+Day 24 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,        0,      37,    628
+        17,            1,        0,      33,    598
+        17,            2,        0,      27,    418
+        17,            3,        0,      16,    243
+
+
+Day 24 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,        0,      36,    618
+        18,            1,        0,      33,    586
+        18,            2,        0,      28,    433
+        18,            3,        0,      16,    250
+
+
+Day 24 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,        0,      35,    624
+        19,            1,        0,      33,    594
+        19,            2,        0,      28,    420
+        19,            3,        0,      17,    249
+
+
+Day 24 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,        0,      33,    641
+        20,            1,        0,      35,    592
+        20,            2,        0,      26,    399
+        20,            3,        0,      18,    256
+
+
+Day 24 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,        0,      31,    648
+        21,            1,        0,      35,    592
+        21,            2,        0,      27,    406
+        21,            3,        0,      18,    243
+
+
+Day 24 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,        0,      32,    642
+        22,            1,        0,      37,    574
+        22,            2,        0,      24,    424
+        22,            3,        0,      17,    250
+
+
+Day 24 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,        0,      26,    624
+        23,            1,        0,      35,    585
+        23,            2,        0,      26,    425
+        23,            3,        0,      21,    258
+
+
+Day 24 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,        0,      28,    637
+        24,            1,        0,      30,    587
+        24,            2,        0,      31,    421
+        24,            3,        0,      17,    249
+
+
+Day 25 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,        0,      24,    642
+         1,            1,        0,      32,    583
+         1,            2,        0,      30,    412
+         1,            3,        0,      18,    259
+
+
+Day 25 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,        0,      24,    661
+         2,            1,        0,      29,    566
+         2,            2,        0,      28,    422
+         2,            3,        0,      19,    251
+
+
+Day 25 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,        0,      25,    648
+         3,            1,        0,      32,    564
+         3,            2,        0,      27,    436
+         3,            3,        0,      15,    253
+
+
+Day 25 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,        0,      26,    645
+         4,            1,        0,      29,    572
+         4,            2,        0,      24,    426
+         4,            3,        0,      20,    258
+
+
+Day 25 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,        0,      26,    650
+         5,            1,        0,      28,    558
+         5,            2,        0,      26,    427
+         5,            3,        0,      19,    266
+
+
+Day 25 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,        0,      22,    644
+         6,            1,        0,      27,    544
+         6,            2,        0,      26,    431
+         6,            3,        0,      21,    285
+
+
+Day 25 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,        0,      21,    641
+         7,            1,        0,      28,    548
+         7,            2,        0,      28,    435
+         7,            3,        0,      18,    281
+
+
+Day 25 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,        0,      19,    649
+         8,            1,        0,      29,    564
+         8,            2,        0,      27,    425
+         8,            3,        0,      20,    267
+
+
+Day 25 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,        0,      20,    622
+         9,            1,        0,      25,    569
+         9,            2,        0,      27,    437
+         9,            3,        0,      22,    278
+
+
+Day 25 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,        0,      18,    622
+        10,            1,        0,      24,    564
+        10,            2,        0,      26,    428
+        10,            3,        0,      25,    293
+
+
+Day 25 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,        0,      18,    614
+        11,            1,        0,      29,    570
+        11,            2,        0,      21,    436
+        11,            3,        0,      24,    288
+
+
+Day 25 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,        0,      19,    623
+        12,            1,        0,      26,    575
+        12,            2,        0,      22,    430
+        12,            3,        0,      23,    282
+
+
+Day 25 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,        0,      19,    644
+        13,            1,        0,      27,    557
+        13,            2,        0,      22,    432
+        13,            3,        0,      21,    278
+
+
+Day 25 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,        0,      18,    667
+        14,            1,        0,      26,    533
+        14,            2,        0,      24,    425
+        14,            3,        0,      20,    287
+
+
+Day 25 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,        0,      22,    661
+        15,            1,        0,      26,    549
+        15,            2,        0,      22,    432
+        15,            3,        0,      18,    270
+
+
+Day 25 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,        0,      20,    669
+        16,            1,        0,      28,    557
+        16,            2,        0,      22,    412
+        16,            3,        0,      18,    274
+
+
+Day 25 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,        0,      18,    646
+        17,            1,        0,      26,    554
+        17,            2,        0,      24,    439
+        17,            3,        0,      19,    274
+
+
+Day 25 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,        0,      17,    658
+        18,            1,        0,      27,    555
+        18,            2,        0,      22,    420
+        18,            3,        0,      21,    280
+
+
+Day 25 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,        0,      18,    671
+        19,            1,        0,      25,    557
+        19,            2,        0,      20,    398
+        19,            3,        0,      22,    289
+
+
+Day 25 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,        0,      17,    665
+        20,            1,        0,      25,    558
+        20,            2,        0,      19,    407
+        20,            3,        0,      23,    286
+
+
+Day 25 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,        0,      19,    652
+        21,            1,        0,      24,    563
+        21,            2,        0,      18,    423
+        21,            3,        0,      22,    279
+
+
+Day 25 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,        0,      19,    642
+        22,            1,        0,      24,    567
+        22,            2,        0,      17,    420
+        22,            3,        0,      23,    288
+
+
+Day 25 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,        0,      19,    626
+        23,            1,        0,      26,    576
+        23,            2,        0,      17,    428
+        23,            3,        0,      21,    287
+
+
+Day 25 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,        0,      19,    635
+        24,            1,        0,      25,    574
+        24,            2,        0,      15,    425
+        24,            3,        0,      20,    287
+
+
+Day 26 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,        0,      21,    653
+         1,            1,        0,      23,    571
+         1,            2,        0,      15,    426
+         1,            3,        0,      18,    273
+
+
+Day 26 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,        0,      22,    647
+         2,            1,        0,      21,    582
+         2,            2,        0,      15,    414
+         2,            3,        0,      17,    282
+
+
+Day 26 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,        0,      23,    635
+         3,            1,        0,      16,    584
+         3,            2,        0,      16,    434
+         3,            3,        0,      19,    273
+
+
+Day 26 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,        0,      24,    631
+         4,            1,        0,      16,    593
+         4,            2,        0,      17,    424
+         4,            3,        0,      17,    278
+
+
+Day 26 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,        0,      24,    614
+         5,            1,        0,      15,    602
+         5,            2,        0,      18,    428
+         5,            3,        0,      16,    283
+
+
+Day 26 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,        0,      23,    647
+         6,            1,        0,      14,    595
+         6,            2,        0,      20,    414
+         6,            3,        0,      14,    273
+
+
+Day 26 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,        0,      21,    634
+         7,            1,        0,      16,    599
+         7,            2,        0,      22,    417
+         7,            3,        0,      12,    279
+
+
+Day 26 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,        0,      20,    679
+         8,            1,        0,      17,    580
+         8,            2,        0,      23,    400
+         8,            3,        0,      11,    270
+
+
+Day 26 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,        0,      16,    677
+         9,            1,        0,      17,    581
+         9,            2,        0,      25,    423
+         9,            3,        0,      13,    248
+
+
+Day 26 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,        0,      15,    623
+        10,            1,        0,      15,    596
+        10,            2,        0,      25,    455
+        10,            3,        0,      14,    257
+
+
+Day 26 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,        0,      12,    663
+        11,            1,        0,      17,    592
+        11,            2,        0,      26,    417
+        11,            3,        0,      14,    259
+
+
+Day 26 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,        0,      11,    669
+        12,            1,        0,      17,    593
+        12,            2,        0,      26,    414
+        12,            3,        0,      13,    257
+
+
+Day 26 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,        0,      10,    689
+        13,            1,        0,      16,    567
+        13,            2,        0,      26,    424
+        13,            3,        0,      14,    254
+
+
+Day 26 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,        0,      11,    675
+        14,            1,        0,      17,    566
+        14,            2,        0,      22,    430
+        14,            3,        0,      16,    263
+
+
+Day 26 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,        0,      11,    673
+        15,            1,        0,      15,    560
+        15,            2,        0,      22,    444
+        15,            3,        0,      17,    258
+
+
+Day 26 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,        0,      13,    646
+        16,            1,        0,      10,    558
+        16,            2,        0,      25,    464
+        16,            3,        0,      16,    268
+
+
+Day 26 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,        0,      14,    680
+        17,            1,        0,      13,    536
+        17,            2,        0,      22,    458
+        17,            3,        0,      15,    262
+
+
+Day 26 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,        0,      15,    672
+        18,            1,        0,      10,    566
+        18,            2,        0,      22,    433
+        18,            3,        0,      15,    267
+
+
+Day 26 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,        0,      13,    656
+        19,            1,        0,      14,    576
+        19,            2,        0,      21,    431
+        19,            3,        0,      14,    275
+
+
+Day 26 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,        0,      12,    637
+        20,            1,        0,      16,    590
+        20,            2,        0,      21,    439
+        20,            3,        0,      13,    272
+
+
+Day 26 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,        0,      12,    645
+        21,            1,        0,      15,    572
+        21,            2,        0,      18,    436
+        21,            3,        0,      14,    288
+
+
+Day 26 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,        0,      13,    644
+        22,            1,        0,      15,    569
+        22,            2,        0,      16,    449
+        22,            3,        0,      15,    279
+
+
+Day 26 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,        0,      14,    642
+        23,            1,        0,      13,    584
+        23,            2,        0,      17,    449
+        23,            3,        0,      14,    267
+
+
+Day 26 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,        0,      13,    656
+        24,            1,        0,      13,    567
+        24,            2,        0,      18,    459
+        24,            3,        0,      14,    260
+
+
+Day 27 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,        0,      12,    659
+         1,            1,        0,      11,    568
+         1,            2,        0,      17,    457
+         1,            3,        0,      17,    259
+
+
+Day 27 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,        0,      11,    683
+         2,            1,        0,      12,    558
+         2,            2,        0,      17,    445
+         2,            3,        0,      16,    258
+
+
+Day 27 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,        0,      13,    681
+         3,            1,        0,      10,    575
+         3,            2,        0,      16,    423
+         3,            3,        0,      17,    265
+
+
+Day 27 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,        0,      14,    680
+         4,            1,        0,      10,    586
+         4,            2,        0,      14,    437
+         4,            3,        0,      18,    241
+
+
+Day 27 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,        0,      12,    693
+         5,            1,        0,      12,    572
+         5,            2,        0,      13,    438
+         5,            3,        0,      19,    241
+
+
+Day 27 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,        0,      11,    654
+         6,            1,        0,      11,    596
+         6,            2,        0,      13,    440
+         6,            3,        0,      20,    255
+
+
+Day 27 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,        0,      12,    664
+         7,            1,        0,      11,    603
+         7,            2,        0,      11,    431
+         7,            3,        0,      20,    248
+
+
+Day 27 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,        0,      12,    650
+         8,            1,        0,      10,    594
+         8,            2,        0,      12,    444
+         8,            3,        0,      19,    259
+
+
+Day 27 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,        0,      14,    673
+         9,            1,        0,       9,    567
+         9,            2,        0,      11,    453
+         9,            3,        0,      18,    255
+
+
+Day 27 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,        0,      16,    675
+        10,            1,        0,       9,    583
+        10,            2,        0,      10,    430
+        10,            3,        0,      17,    260
+
+
+Day 27 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,        0,      16,    708
+        11,            1,        0,       7,    548
+        11,            2,        0,      12,    433
+        11,            3,        0,      15,    261
+
+
+Day 27 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,        0,      15,    679
+        12,            1,        0,      10,    577
+        12,            2,        0,      12,    425
+        12,            3,        0,      13,    269
+
+
+Day 27 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,        0,      16,    689
+        13,            1,        0,       8,    577
+        13,            2,        0,      15,    414
+        13,            3,        0,      11,    270
+
+
+Day 27 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,        0,      14,    687
+        14,            1,        0,       9,    572
+        14,            2,        0,      14,    421
+        14,            3,        0,      11,    272
+
+
+Day 27 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,        0,      14,    681
+        15,            1,        0,      10,    557
+        15,            2,        0,      13,    432
+        15,            3,        0,      11,    282
+
+
+Day 27 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,        0,      13,    659
+        16,            1,        0,      12,    564
+        16,            2,        0,      12,    457
+        16,            3,        0,       9,    274
+
+
+Day 27 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,        0,      13,    657
+        17,            1,        0,      11,    589
+        17,            2,        0,      13,    437
+        17,            3,        0,       8,    272
+
+
+Day 27 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,        0,      11,    698
+        18,            1,        0,      12,    559
+        18,            2,        0,      14,    433
+        18,            3,        0,       8,    265
+
+
+Day 27 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,        0,       8,    719
+        19,            1,        0,      11,    544
+        19,            2,        0,      16,    427
+        19,            3,        0,       9,    266
+
+
+Day 27 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,        0,       8,    720
+        20,            1,        0,      10,    552
+        20,            2,        0,      16,    436
+        20,            3,        0,       9,    249
+
+
+Day 27 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,        0,       7,    707
+        21,            1,        0,      11,    554
+        21,            2,        0,      15,    434
+        21,            3,        0,       9,    263
+
+
+Day 27 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,        0,       7,    690
+        22,            1,        0,      10,    573
+        22,            2,        0,      15,    444
+        22,            3,        0,      10,    251
+
+
+Day 27 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,        0,       8,    678
+        23,            1,        0,      11,    572
+        23,            2,        0,      13,    450
+        23,            3,        0,      10,    258
+
+
+Day 27 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,        0,       8,    675
+        24,            1,        0,      12,    570
+        24,            2,        0,      13,    446
+        24,            3,        0,       9,    267
+
+
+Day 28 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         1,            0,        0,       7,    681
+         1,            1,        0,      13,    564
+         1,            2,        0,      14,    442
+         1,            3,        0,       6,    273
+
+
+Day 28 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         2,            0,        0,       6,    686
+         2,            1,        0,      11,    548
+         2,            2,        0,      14,    456
+         2,            3,        0,       7,    272
+
+
+Day 28 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         3,            0,        0,       6,    692
+         3,            1,        0,      11,    555
+         3,            2,        0,      13,    436
+         3,            3,        0,       8,    279
+
+
+Day 28 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         4,            0,        0,       8,    662
+         4,            1,        0,      10,    577
+         4,            2,        0,      11,    455
+         4,            3,        0,       8,    269
+
+
+Day 28 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         5,            0,        0,       8,    694
+         5,            1,        0,      10,    575
+         5,            2,        0,      10,    432
+         5,            3,        0,       8,    263
+
+
+Day 28 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         6,            0,        0,       9,    685
+         6,            1,        0,       9,    588
+         6,            2,        0,       9,    440
+         6,            3,        0,       8,    252
+
+
+Day 28 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         7,            0,        0,       9,    691
+         7,            1,        0,       9,    575
+         7,            2,        0,       8,    448
+         7,            3,        0,       8,    252
+
+
+Day 28 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         8,            0,        0,       8,    669
+         8,            1,        0,       9,    593
+         8,            2,        0,       8,    442
+         8,            3,        0,       9,    262
+
+
+Day 28 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+         9,            0,        0,       7,    689
+         9,            1,        0,       8,    582
+         9,            2,        0,      10,    431
+         9,            3,        0,       9,    264
+
+
+Day 28 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        10,            0,        0,       6,    660
+        10,            1,        0,       9,    599
+        10,            2,        0,       7,    428
+        10,            3,        0,      11,    280
+
+
+Day 28 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        11,            0,        0,       8,    645
+        11,            1,        0,       8,    605
+        11,            2,        0,       6,    440
+        11,            3,        0,      11,    277
+
+
+Day 28 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        12,            0,        0,       9,    634
+        12,            1,        0,       7,    611
+        12,            2,        0,       7,    441
+        12,            3,        0,      10,    281
+
+
+Day 28 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        13,            0,        0,       8,    645
+        13,            1,        0,       6,    602
+        13,            2,        0,       8,    444
+        13,            3,        0,      11,    276
+
+
+Day 28 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        14,            0,        0,       7,    666
+        14,            1,        0,       7,    580
+        14,            2,        0,       7,    461
+        14,            3,        0,      11,    261
+
+
+Day 28 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        15,            0,        0,       7,    656
+        15,            1,        0,       6,    583
+        15,            2,        0,       8,    467
+        15,            3,        0,      10,    263
+
+
+Day 28 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        16,            0,        0,       8,    682
+        16,            1,        0,       6,    590
+        16,            2,        0,       7,    428
+        16,            3,        0,      10,    269
+
+
+Day 28 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        17,            0,        0,       8,    676
+        17,            1,        0,       6,    600
+        17,            2,        0,       7,    432
+        17,            3,        0,      10,    261
+
+
+Day 28 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        18,            0,        0,       8,    695
+        18,            1,        0,       6,    597
+        18,            2,        0,       7,    417
+        18,            3,        0,      10,    260
+
+
+Day 28 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        19,            0,        0,       7,    709
+        19,            1,        0,       6,    599
+        19,            2,        0,       7,    407
+        19,            3,        0,      11,    254
+
+
+Day 28 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        20,            0,        0,       6,    710
+        20,            1,        0,       4,    570
+        20,            2,        0,       8,    432
+        20,            3,        0,      11,    259
+
+
+Day 28 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        21,            0,        0,       5,    718
+        21,            1,        0,       6,    584
+        21,            2,        0,       8,    408
+        21,            3,        0,      10,    261
+
+
+Day 28 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        22,            0,        0,       5,    690
+        22,            1,        0,       7,    621
+        22,            2,        0,       8,    379
+        22,            3,        0,       9,    281
+
+
+Day 28 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        23,            0,        0,       3,    690
+        23,            1,        0,       7,    618
+        23,            2,        0,       9,    399
+        23,            3,        0,      10,    264
+
+
+Day 28 Summary:
+Hour, District ID, Ignorant, Alarmed, Zombie
+        24,            0,        0,       3,    668
+        24,            1,        0,       7,    628
+        24,            2,        0,       9,    418
+        24,            3,        0,      10,    257
 

@@ -146,7 +146,7 @@ namespace simulation
             totalSurvivors += ignorantCount + alarmedCount;
             // Display district states
             std::cout << district->getName() << ": ";
-            std::cout << "[Ignorant: " << colors.White << ignorantCount << " " << colors.GreyBG << std::string(ignorantCount / 5, '_') << colors.Clean << "] ";
+            std::cout << "[Ignorant: " << colors.White << ignorantCount << " " << colors.GreyBG << std::string(ignorantCount /5 , '_') << colors.Clean << "] ";
             std::cout << "[Alarmed: " << colors.gold << alarmedCount << " " << colors.BGorange << std::string(alarmedCount / 5, '_') << colors.Clean << "] ";
             std::cout << "[Zombie: " << colors.Red << zombieCount << " " << colors.BGred << std::string(zombieCount / 5, '_') << colors.Clean << "]" << std::endl;
         }

@@ -8,15 +8,37 @@
 #include <memory>
 #include <string>
 #include <fstream>
+#include <queue>
+
+
 
 namespace simulation
 {
+     // Define an enum for different event types
+    enum EventType {
+        Move,
+        Interaction,
+        StateChange
+    };
+
+    // Structure to represent an event
+    struct Event {
+        EventType type;
+        // int denizenId; // ID of the denizen involved in the event
+        // int targetDistrictId; // Relevant for Move events
+
+        // Constructor for creating an event
+        // Event(EventType type, int denizenId, int targetDistrictId = -1)
+        //     : type(type), denizenId(denizenId), targetDistrictId(targetDistrictId) {}
+    };
 
     class Simulation
     {
     public:
         // initializes the simulation with the total number of days and the graph.
         Simulation(int numDays, const Graph &graph);
+
+      
 
         // ~Simulation();
 
@@ -67,12 +89,13 @@ namespace simulation
         }
 
     private:
-        int numDays;                     // total number of days for the simulation
-        Graph graph;                     // graph representing the layout of districts
-        std::vector<District*> districts; // vector containing all districts in the simulation
-        int currentDay;                  // current day in the simulation
-        int currentTimeStep;             // current time step (hour) within the current day
-        int nextDenizenId;               // Unique identifier for each denizen
+        int numDays;                       // total number of days for the simulation
+        Graph graph;                       // graph representing the layout of districts
+        std::vector<District *> districts; // vector containing all districts in the simulation
+        std::queue<Event> eventQueue;
+        int currentDay;                    // current day in the simulation
+        int currentTimeStep;               // current time step (hour) within the current day
+        int nextDenizenId;                 // Unique identifier for each denizen
 
         // initialize districts with denizens and their states.
         void initializeDistricts();
@@ -80,7 +103,15 @@ namespace simulation
         // Update each district's state and denizen interactions for the current time step.
         void updateDistricts();
 
-      
+// Private methods for handling different types of events
+        void handleMoveEvent(const Event& event);
+        void handleInteractionEvent(const Event& event);
+        void handleStateChangeEvent(const Event& event);
+
+        // Method to schedule an event
+        void scheduleEvent(const Event& event);
+
+       
     };
 
 }
