@@ -1,4 +1,4 @@
-![alt text](Screen Recording 2023-12-20 at 2.51.57 AM.gif)
+![alt text](https://github.com/7IBBE77S/CS273-final/blob/91573a80061608426a1acd9cb0a383f87adb64b2/Screen%20Recording%202023-12-20%20at%202.51.57%20AM.gif)
 
 ```
                   ..... .., . ., .   .,....,,.  
