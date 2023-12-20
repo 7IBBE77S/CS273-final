@@ -58,6 +58,109 @@ namespace simulation
         }
     }
 
+    void District::moveTo(Denizen *denizen, const Graph &graph, const std::vector<District *> &districts)
+    {
+        if (denizen->getState() == Denizen::State::Ignorant)
+        {
+            // Find the safest adjacent district for Ignorant denizens
+            int minThreat = INT_MAX;
+            int targetDistrictId = this->id;
+            for (int neighborId : graph.getNeighbors(this->id))
+            {
+                int zombieCount = districts[neighborId]->getStateCounts()[Denizen::State::Zombie];
+                int alarmedCount = districts[neighborId]->getStateCounts()[Denizen::State::Alarmed];
+                int threatLevel = zombieCount + alarmedCount; // Combine counts to assess threat
+
+                if (threatLevel < minThreat)
+                {
+                    minThreat = threatLevel;
+                    targetDistrictId = neighborId;
+                }
+            }
+
+            if (targetDistrictId != this->id)
+            {
+                denizen->setDistrictId(targetDistrictId);
+            }
+        }
+        else
+        {
+            // Use the existing logic for other states
+            int newDistrictId = determineNewDistrictId(*denizen, graph);
+            if (graph.areAdjacent(id, newDistrictId))
+            {
+                denizen->setDistrictId(newDistrictId);
+            }
+        }
+    }
+
+  void District::moveFromZombies(Denizen* denizen, const Graph& graph, const std::vector<District*>& districts) {
+    if (utility::checkProbability(utility::ALARMED_MOVE_PROB)) {
+        // Initialize variables to track the best district to move to
+        int minZombies = INT_MAX;
+        int maxIgnorants = 0;
+        int targetDistrictId = this->id;
+
+        // Check neighboring districts
+        for (int neighborId : graph.getNeighbors(this->id)) {
+            auto neighborStateCounts = districts[neighborId]->getStateCounts();
+            int zombieCount = neighborStateCounts[Denizen::State::Zombie];
+            int ignorantCount = neighborStateCounts[Denizen::State::Ignorant];
+
+            // Prioritize districts with fewer zombies and more ignorants
+            if (zombieCount < minZombies || (zombieCount == minZombies && ignorantCount > maxIgnorants)) {
+                minZombies = zombieCount;
+                maxIgnorants = ignorantCount;
+                targetDistrictId = neighborId;
+            }
+        }
+
+        // Move to the selected district
+        if (targetDistrictId != this->id) {
+            denizen->setDistrictId(targetDistrictId);
+        }
+    } else {
+        // Random movement if not specifically avoiding zombies or seeking ignorants
+        moveTo(denizen, graph, districts);
+    }
+}
+
+
+    void District::moveToDenizens(Denizen *denizen, const Graph &graph, const std::vector<District *> &districts)
+    {
+        if (utility::checkProbability(utility::ZOMBIE_MOVE_PROB)) // chance to move
+        {
+            int maxAttraction = 0;
+            int targetDistrictId = this->id;
+
+            for (int neighborId : graph.getNeighbors(this->id))
+            {
+                int nonZombieCount = districts[neighborId]->getStateCounts()[Denizen::State::Ignorant] +
+                                     districts[neighborId]->getStateCounts()[Denizen::State::Alarmed];
+                int zombieCount = districts[neighborId]->getStateCounts()[Denizen::State::Zombie];
+
+                // Define a new attraction metric
+                int attraction = nonZombieCount + zombieCount; // This combines the attraction of both non-zombies and other zombies
+
+                if (attraction > maxAttraction)
+                {
+                    maxAttraction = attraction;
+                    targetDistrictId = neighborId;
+                }
+            }
+
+            if (targetDistrictId != this->id)
+            {
+                denizen->setDistrictId(targetDistrictId);
+            }
+        }
+        else
+        {
+            // Random movement
+            moveTo(denizen, graph, districts);
+        }
+    }
+
     // Function to update a denizen's state
     Denizen *District::updateState(Denizen *&denizen)
     {
@@ -138,6 +241,30 @@ namespace simulation
             }
         }
     }
+    // Function to move a denizen based on its state
+    void District::moveDenizen(Denizen *denizen, const Graph &graph, const std::vector<District *> &districts)
+    {
+        // Check the denizen's state and return the appropriate probability
+        switch (denizen->getState())
+        {
+        case Denizen::State::Ignorant:
+            // If the denizen is ignorant, move it to a random adjacent district
+            moveTo(denizen, graph, districts);
+
+            break;
+        case Denizen::State::Alarmed:
+            // If the denizen is alarmed, move it to a random adjacent district with the fewest zombies
+            moveFromZombies(denizen, graph, districts);
+
+            break;
+        case Denizen::State::Zombie:
+            // If the denizen is a zombie, move it to the random adjacent district with the most denizens
+            moveToDenizens(denizen, graph, districts);
+            break;
+        }
+
+        // return true;
+    }
 
     // Function to determine if a denizen should move
     bool District::shouldMove(const Denizen &denizen)
@@ -174,5 +301,4 @@ namespace simulation
             return id;
         }
     }
-
 }

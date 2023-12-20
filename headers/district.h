@@ -35,7 +35,13 @@ namespace simulation
     int determineNewDistrictId(const Denizen &denizen, const Graph &graph);
 
     template <typename OldState, typename NewState>
-    NewState* createNewDenizen(OldState *oldDenizen);
+    NewState *createNewDenizen(OldState *oldDenizen);
+
+    void moveTo(Denizen *denizen, const Graph &graph, const std::vector<District *> &districts);
+    void moveFromZombies(Denizen *denizen, const Graph &graph, const std::vector<District *> &districts);
+    void moveToDenizens(Denizen *denizen, const Graph &graph, const std::vector<District *> &districts);
+
+    void moveDenizen(Denizen *denizen, const Graph &graph, const std::vector<District *> &districts);
 
     // void processInteraction(Denizen& denizen, const Denizen& other);
 

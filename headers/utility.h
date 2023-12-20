@@ -7,13 +7,13 @@ namespace utility
 {
 
     // change as needed
-    constexpr double IGNORANT_TO_ZOMBIE_PROB = 0.0001;  // X
-    constexpr double IGNORANT_TO_ALARMED_PROB = 0.00016; // Y
-    constexpr double ALARMED_TO_ZOMBIE_PROB = 0.000025;   // Z
-    static constexpr double ZOMBIE_BITE_SUCCESS_PROB = 0.2;
-    static constexpr double IGNORANT_MOVE_PROB = 0.05;
-    static constexpr double ALARMED_MOVE_PROB = 0.1;
-    static constexpr double ZOMBIE_MOVE_PROB = 0.20;
+    constexpr double IGNORANT_TO_ZOMBIE_PROB = 0.000;  // X
+    constexpr double IGNORANT_TO_ALARMED_PROB = 0.000; // Y
+    constexpr double ALARMED_TO_ZOMBIE_PROB = 0.0000;   // Z
+    static constexpr double ZOMBIE_BITE_SUCCESS_PROB = 0.0;
+    static constexpr double IGNORANT_MOVE_PROB = 0.00;
+    static constexpr double ALARMED_MOVE_PROB = 0.0;
+    static constexpr double ZOMBIE_MOVE_PROB = 0.0;
     constexpr int DOWNTOWN = 3;
     constexpr int MEDICAL_HILL = 1;
     constexpr int THE_BURBS = 0;
