@@ -1,0 +1,33 @@
+28 Days Later Zombie Apocalypse!
+### We were warned, but we didn’t listen. Now, we must pay the price for our hubris. The zombie apocalypse has begun!
+- Your simulation takes place in 273ville, soon-to-be miserable and doomed initial population of 2000.
+    - 273ville is broken into districts:
+        - Downtown
+        - The ‘Burbs
+        - Medical Hill  Patient 0 emerges here!
+        - The University  One alarmed person emerges here, even though wasn’t attacked!
+    - Each district is adjacent to some other set of districts, but not necessarily all. (More interesting simulations are not fully interconnected.) You will need to decide at the outset how your districts are laid out.
+
+    - Denizens of 273ville live in a district, but can travel to adjacent districts. You will need to decide the population of your districts and how to distribute denizens to them at initialization.
+
+    - Because denizens can move between districts, each time click you should decide which denizens travel to which other districts.
+
+    - Denizens can be in three states:
+        - Ignorant (they don’t know about the zombie outbreak, so behave like they normally would). 
+        - Ignorant people have the fewest defenses against zombies. Upon encounter with a zombie, they have an X% chance of being bitten and becoming a zombie and a (1-X)% chance of becoming alarmed and escaping.
+        - Ignorant people can be warned by alarmed people, thereby becoming alarmed. Upon encounter with an alarmed person, they have a Y% chance of believing the alarmed person and becoming alarmed and a (1-Y)% chance of stupidly ignoring the warning and continuing in their woeful ignorance. 
+        - Alarmed (they know about the zombie outbreak and are behaving accordingly). 
+        - Alarmed people can try to avoid zombies, so have a lower (but still non-zero) chance Z of becoming zombies than ignorant people and (1-Z) of escaping to alarm others yet again. 
+        -Zombie (only their insatiable hunger for brains drives their behavior). They bite people and turn them into zombies, who go on and bite more people,…Each zombie has one chance per time click to bite a non-zombie in their present district.
+
+    - Every person every turn gets to move once.
+    - You may assume that a denizen in any given district is able to communicate with any other denizen in that district and not with denizens of any other district. Ergo, a zombie in the ‘Burbs can bite anyone in the ‘Burbs, but no one in the University. Likewise, an alarmed denizen can alarm another denizen in the same district, etc.
+    - The simulation begins with one zombie escaping in Medical Hill, doubtless due to some foolish, Lovecraftian experiment.
+    - You should graph the progress of the outbreak and related descent into chaos and disorder, i.e. at every time click count how many ignorant, alarmed, and zombies there are. You should make a graph showing how the number of ignorant persons, alarmed persons, and zombies change over time.
+    - One time-click == 1 hr. You should assume a 24-hour day, and take a parameter D representing the total number of days in the simulation.
+    - Major parameters:
+        - X, the likelihood of an ignorant person becoming a zombie if bitten.
+        - Y, the likelihood of an ignorant person becoming alarmed if alerted by an alarmed person.
+        - Z, the likelihood of an alarmed person becoming a zombie if bitten.
+        - D, the number of days you want to the simulation to entail.
+        - The percentage of people who start out in each district.

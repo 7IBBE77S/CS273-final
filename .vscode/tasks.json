@@ -1,0 +1,92 @@
+{
+    "comment1": "// See https://go.microsoft.com/fwlink/?LinkId=733558",
+    "comment2": "// for the documentation about the tasks.json format",
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build project",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-fdiagnostics-color=always",
+                "-g",
+                "-Wall",
+                "-std=c++17",
+                "-o",
+                "\"${workspaceFolder}\"/bin/main",
+                "-I",
+                "\"${workspaceFolder}\"/headers",
+                "-ggdb",
+                "\"${workspaceFolder}\"/source/*.cpp"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "compiler: /usr/bin/g++",
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "options": {
+                "cwd": "${fileDirname}"
+            }
+        },
+        {
+            "label": "build test project",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-std=c++17",
+                "-o",
+                "\"${workspaceFolder}\"/bin/testmain",
+                "-I",
+                "\"${workspaceFolder}\"/headers",
+                "-I",
+                "/usr/local/lib/googletest/googletest/googletest/include",
+                "-I",
+                "/usr/local/lib/googletest/googletest/googletest",
+                "-ggdb",
+                "\"${workspaceFolder}\"/tests/*.cpp",
+                "/usr/local/lib/googletest/googletest/googletest/src/gtest-all.cc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [],
+            "options": {
+                "cwd": ""
+            }
+        },
+        {
+            "label": "run",
+            "type": "shell",
+            "command": "./bin/main",
+            "problemMatcher": []
+        },
+        {
+            "label": "run tests",
+            "type": "shell",
+            "command": "./bin/testmain",
+            "problemMatcher": []
+        },
+        {
+            "label": "run on windows cmd shell ",
+            "type": "shell",
+            "command": "\"${workspaceFolder}/bin/main\"",
+            "options": {
+                "cwd": "bin"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "run tests on windows cmd shell ",
+            "type": "shell",
+            "command": "\"${workspaceFolder}/bin/testmain\"",
+            "options": {
+                "cwd": "bin"
+            },
+            "problemMatcher": []
+        }
+    ]
+}
